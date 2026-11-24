@@ -1,0 +1,304 @@
+<!DOCTYPE html>
+<html lang="en" data-theme="dark">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+<title>Call of Duty Esports Hub | Rostermania — CDL, Challengers, Warzone & CODM</title>
+<meta name="description" content="Call of Duty Esports Hub — build and share CDL, Challengers, Warzone and CODM rosters. Real 2027 Breaking Point stats, S-tier trophy cabinets, free agents, tier lists, head-to-head comparisons and custom teams.">
+<meta property="og:title" content="Call of Duty Esports Hub | Rostermania">
+<meta property="og:description" content="CDL, Challengers, Warzone and CODM roster builder with real Breaking Point stats, S-tier trophy cabinets, tier lists and custom teams.">
+<meta property="og:image" content="preview.png">
+<meta property="og:type" content="website">
+<link rel="stylesheet" href="fonts-local.css">
+<link rel="stylesheet" href="styles.css">
+<link rel="icon" href="assets/favicon.svg" type="image/svg+xml">
+</head>
+<body>
+<a class="skip-link" href="#board">Skip to roster board</a>
+
+<div class="app" id="app">
+  <!-- ── Top bar ─────────────────────────────────────────────── -->
+  <header class="topbar">
+    <a class="brand" href="#" data-action="home" aria-label="Rostermania home">
+      <span class="brand-mark" aria-hidden="true">
+        <svg viewBox="0 0 44 44"><path d="M6 13V6h7M31 6h7v7M6 31v7h7M38 31v7h-7" fill="none" stroke="currentColor" stroke-width="2.5"/><circle cx="22" cy="22" r="11" fill="none" stroke="currentColor" stroke-width="1.2" stroke-dasharray="3 3" opacity=".55"/><path d="M22 12.5 31 22l-9 9.5L13 22z" fill="var(--accent)"/><circle cx="22" cy="22" r="2.4" fill="var(--bg)"/></svg>
+      </span>
+      <span class="brand-type">
+        <span class="brand-name">ROSTER<span>MANIA</span></span>
+        <span class="brand-sub">COMPETITIVE COD · ROSTER LAB</span>
+      </span>
+    </a>
+
+    <nav class="league-tabs" aria-label="Leagues">
+      <button class="league-tab is-active" data-league="cdl">
+        <span class="lt-kicker">CDL</span><span class="lt-label">Call of Duty League</span>
+      </button>
+      <button class="league-tab" data-league="ch">
+        <span class="lt-kicker">CDC</span><span class="lt-label">Challengers</span>
+      </button>
+      <button class="league-tab" data-league="wz">
+        <span class="lt-kicker">WZ</span><span class="lt-label">Warzone</span>
+      </button>
+      <button class="league-tab" data-league="mob">
+        <span class="lt-kicker">CODM</span><span class="lt-label">Mobile</span>
+      </button>
+    </nav>
+
+    <div class="topbar-right">
+      <div class="live-stat" title="Starters signed across the league">
+        <span class="live-dot"></span>
+        <span id="signed-count">48 / 48</span>
+        <span class="live-sep">·</span>
+        <span id="squad-count">12 complete</span>
+      </div>
+      <button class="icon-btn" data-action="toggle-theme" title="Switch theme" aria-label="Switch theme">
+        <svg class="ico-sun" viewBox="0 0 24 24"><circle cx="12" cy="12" r="4.2"/><path d="M12 2v2.4M12 19.6V22M2 12h2.4M19.6 12H22M4.9 4.9l1.7 1.7M17.4 17.4l1.7 1.7M19.1 4.9l-1.7 1.7M6.6 17.4l-1.7 1.7"/></svg>
+        <svg class="ico-moon" viewBox="0 0 24 24"><path d="M20 14.2A8.4 8.4 0 0 1 9.8 4 8.5 8.5 0 1 0 20 14.2Z"/></svg>
+      </button>
+      <button class="btn btn-primary btn-share" data-action="share">
+        <svg viewBox="0 0 24 24"><path d="M12 16V4M12 4 7 9M12 4l5 5M4 15v5h16v-5"/></svg>
+        <span>Share</span>
+      </button>
+    </div>
+  </header>
+
+  <!-- ── League strip / view switcher ───────────────────────── -->
+  <div class="subbar">
+    <div class="league-intro">
+      <div class="league-glyph" id="league-glyph">CDL</div>
+      <div>
+        <h1 id="league-title">Call of Duty League</h1>
+        <p id="league-tagline">The 12 franchises. 48 starters. Build the superteam.</p>
+      </div>
+    </div>
+    <nav class="view-tabs" aria-label="Views">
+      <button class="view-tab is-active" data-view="board">
+        <svg viewBox="0 0 24 24"><rect x="3" y="3" width="7.5" height="7.5" rx="1.5"/><rect x="13.5" y="3" width="7.5" height="7.5" rx="1.5"/><rect x="3" y="13.5" width="7.5" height="7.5" rx="1.5"/><rect x="13.5" y="13.5" width="7.5" height="7.5" rx="1.5"/></svg>
+        Roster board
+      </button>
+      <button class="view-tab" data-view="tiers">
+        <svg viewBox="0 0 24 24"><path d="M3 5h18M3 10h13M3 15h16M3 20h9"/></svg>
+        Tier lists
+      </button>
+      <button class="view-tab" data-view="compare">
+        <svg viewBox="0 0 24 24"><path d="M7 4v16M17 4v16M3.5 8 7 4.5 10.5 8M13.5 16l3.5 3.5 3.5-3.5"/></svg>
+        Head-to-head
+      </button>
+      <button class="view-tab" data-view="intel">
+        <svg viewBox="0 0 24 24"><path d="M4 19V5a2 2 0 0 1 2-2h9l5 5v11a2 2 0 0 1-2 2H6a2 2 0 0 1-2-2Z"/><path d="M14 3v6h6M8 13h8M8 17h5"/></svg>
+        Intel
+      </button>
+    </nav>
+    <div class="subbar-actions">
+      <button class="btn btn-ghost" data-action="open-sync" title="Pull latest data" aria-label="Pull latest data">
+        <svg viewBox="0 0 24 24"><path d="M12 3v11M7 9l5 5 5-5M4 19h16"/></svg>
+        <span>Pull</span>
+      </button>
+      <button class="btn btn-ghost" data-action="add-team" title="Add a custom team" aria-label="Add a custom team">
+        <svg viewBox="0 0 24 24"><path d="M12 5v14M5 12h14"/></svg>
+        <span>Add team</span>
+      </button>
+      <button class="btn btn-ghost" data-action="add-player" title="Add a custom player" aria-label="Add a custom player">
+        <svg viewBox="0 0 24 24"><circle cx="10" cy="8" r="3.4"/><path d="M3.5 20a6.5 6.5 0 0 1 13 0M18.5 7.5v6M21.5 10.5h-6"/></svg>
+        <span>Add player</span>
+      </button>
+      <button class="btn btn-ghost" data-action="manage" title="Import / export & reset" aria-label="Manage data">
+        <svg viewBox="0 0 24 24"><circle cx="12" cy="12" r="3"/><path d="M19.4 15a1.6 1.6 0 0 0 .3 1.8l.1.1a2 2 0 1 1-2.8 2.8l-.1-.1a1.6 1.6 0 0 0-1.8-.3 1.6 1.6 0 0 0-1 1.5V21a2 2 0 1 1-4 0v-.1a1.6 1.6 0 0 0-1-1.5 1.6 1.6 0 0 0-1.8.3l-.1.1a2 2 0 1 1-2.8-2.8l.1-.1a1.6 1.6 0 0 0 .3-1.8 1.6 1.6 0 0 0-1.5-1H3a2 2 0 1 1 0-4h.1a1.6 1.6 0 0 0 1.5-1 1.6 1.6 0 0 0-.3-1.8l-.1-.1a2 2 0 1 1 2.8-2.8l.1.1a1.6 1.6 0 0 0 1.8.3 1.6 1.6 0 0 0 1-1.5V3a2 2 0 1 1 4 0v.1a1.6 1.6 0 0 0 1 1.5 1.6 1.6 0 0 0 1.8-.3l.1-.1a2 2 0 1 1 2.8 2.8l-.1.1a1.6 1.6 0 0 0-.3 1.8 1.6 1.6 0 0 0 1.5 1H21a2 2 0 1 1 0 4h-.1a1.6 1.6 0 0 0-1.5 1Z"/></svg>
+      </button>
+    </div>
+  </div>
+
+  <!-- ── Breaking intel ticker ──────────────────────────────── -->
+  <div class="ticker" id="ticker" aria-label="Latest roster intel">
+    <span class="ticker-label"><span class="live-dot"></span> INTEL</span>
+    <div class="ticker-viewport"><div class="ticker-track" id="ticker-track"></div></div>
+    <span class="ticker-source">via Breaking Point · Liquipedia</span>
+  </div>
+
+  <!-- ── Workspace ──────────────────────────────────────────── -->
+  <main class="workspace">
+    <!-- Free agents rail -->
+    <aside class="fa-rail" id="fa-rail" aria-label="Free agents">
+      <div class="fa-head">
+        <div class="fa-title-row">
+          <span class="eyebrow">FREE AGENTS</span>
+          <span class="count-pill" id="fa-count">12</span>
+          <span class="fa-live">live market</span>
+        </div>
+        <div class="fa-search-wrap">
+          <svg viewBox="0 0 24 24"><circle cx="11" cy="11" r="6.5"/><path d="m16 16 4.5 4.5"/></svg>
+          <input id="fa-search" type="search" placeholder="Search player…" autocomplete="off" aria-label="Search free agents">
+          <kbd>/</kbd>
+        </div>
+        <div class="fa-filters">
+          <select id="fa-country" aria-label="Filter by country"><option value="">All countries</option></select>
+          <select id="fa-sort" aria-label="Sort free agents">
+            <option value="az">A – Z</option>
+            <option value="za">Z – A</option>
+            <option value="rating">Rating</option>
+            <option value="country">Country</option>
+          </select>
+        </div>
+        <label class="fa-scope" id="fa-scope-wrap"><input type="checkbox" id="fa-include-ch" checked> Include Challengers players</label>
+        <div class="fa-hint" id="fa-hint">Drag a player onto a slot — or tap to select, then tap a slot.</div>
+      </div>
+      <div class="fa-list" id="fa-list"></div>
+      <div class="fa-foot">
+        <button class="btn btn-dashed" data-action="add-player">
+          <svg viewBox="0 0 24 24"><path d="M12 5v14M5 12h14"/></svg>
+          Add free agent
+        </button>
+        <p class="micro">Custom players are saved in this browser.</p>
+      </div>
+    </aside>
+
+    <!-- Main content -->
+    <section class="main-panel" id="main-panel">
+      <!-- Roster board -->
+      <section id="view-board" class="view is-active" aria-labelledby="board-heading">
+        <div class="board-toolbar">
+          <div class="board-title">
+            <h2 id="board-heading">Roster board</h2>
+            <span class="muted" id="board-sub">Official 2027 rosters · updated Nov 17, 2026</span>
+          </div>
+          <div class="board-controls">
+            <div class="search-wrap">
+              <svg viewBox="0 0 24 24"><circle cx="11" cy="11" r="6.5"/><path d="m16 16 4.5 4.5"/></svg>
+              <input id="team-search" type="search" placeholder="Search teams…" aria-label="Search teams">
+            </div>
+            <select id="team-region" aria-label="Filter teams by region"><option value="">All regions</option></select>
+            <button class="icon-btn small" data-action="sort-teams" title="Sort teams" aria-label="Sort teams">
+              <svg viewBox="0 0 24 24"><path d="M4 7h16M7 12h10M10 17h4"/></svg>
+            </button>
+          </div>
+        </div>
+        <div class="board-meta">
+          <div class="legend">
+            <span><i class="dot starter"></i> Starter</span>
+            <span><i class="dot bench"></i> Bench / sub</span>
+            <span><i class="dot custom"></i> Custom team</span>
+          </div>
+          <div class="status-line" id="board-status">All rosters verified</div>
+        </div>
+        <div id="team-grid" class="team-grid"></div>
+        <div id="board-empty" class="empty-state" hidden>
+          <h3>No teams match that filter</h3>
+          <p>Try a different region or clear the search.</p>
+          <button class="btn btn-ghost" data-action="clear-team-filters">Clear filters</button>
+        </div>
+      </section>
+
+      <!-- Tier lists -->
+      <section id="view-tiers" class="view" aria-labelledby="tiers-heading">
+        <div class="view-head">
+          <div>
+            <h2 id="tiers-heading">Tier lists</h2>
+            <p class="muted">Build your own board. Drag players or teams into tiers — saved automatically in this browser.</p>
+          </div>
+          <div class="view-actions">
+            <div class="segmented" role="group" aria-label="Tier list type">
+              <button class="seg is-active" data-tier-type="players">Players</button>
+              <button class="seg" data-tier-type="teams">Teams</button>
+            </div>
+            <button class="btn btn-ghost" data-action="auto-tier">Auto-seed</button>
+            <button class="btn btn-ghost" data-action="reset-tiers">Reset</button>
+          </div>
+        </div>
+        <div class="tier-board" id="tier-board"></div>
+        <div class="tier-palette-wrap">
+          <div class="palette-head">
+            <span class="eyebrow">UNRANKED</span>
+            <span class="muted" id="tier-palette-count"></span>
+            <div class="palette-search"><input id="tier-search" type="search" placeholder="Find a player…" aria-label="Find player for tier list"></div>
+          </div>
+          <div class="tier-palette" id="tier-palette"></div>
+        </div>
+      </section>
+
+      <!-- Compare -->
+      <section id="view-compare" class="view" aria-labelledby="compare-heading">
+        <div class="view-head">
+          <div>
+            <h2 id="compare-heading">Head-to-head</h2>
+            <p class="muted">Put two players or two teams side by side. Stats are 2026–27 form for CDL; other leagues have no published stat set.</p>
+          </div>
+          <div class="view-actions">
+            <div class="segmented" role="group" aria-label="Compare type">
+              <button class="seg is-active" data-compare-type="players">Players</button>
+              <button class="seg" data-compare-type="teams">Teams</button>
+            </div>
+            <button class="btn btn-ghost" data-action="swap-compare">Swap</button>
+          </div>
+        </div>
+        <div class="compare-selects" id="compare-selects"></div>
+        <div class="compare-stage" id="compare-stage"></div>
+      </section>
+
+      <!-- Intel -->
+      <section id="view-intel" class="view" aria-labelledby="intel-heading">
+        <div class="view-head">
+          <div>
+            <h2 id="intel-heading">Intel desk</h2>
+            <p class="muted">Roster moves, source reporting and circuit results. Freshest first.</p>
+          </div>
+          <div class="view-actions">
+            <a class="btn btn-ghost" href="https://breakingpoint.gg/" target="_blank" rel="noopener">Open Breaking Point ↗</a>
+            <a class="btn btn-ghost" href="https://liquipedia.net/callofduty/Call_of_Duty_Challengers/2027/Cup/1" target="_blank" rel="noopener">Cup 1 source ↗</a>
+          </div>
+        </div>
+        <div class="sync-panel" id="sync-panel"></div>
+        <div class="intel-grid" id="intel-grid"></div>
+        <div class="source-grid" id="source-grid"></div>
+        <div class="data-note" id="data-note"></div>
+      </section>
+    </section>
+  </main>
+
+  <footer class="footer">
+    <div class="footer-left">
+      <span class="mono">ROSTERMANIA / 2027</span>
+      <span>Unofficial fan project. Not affiliated with Activision, the CDL, or any team.</span>
+    </div>
+    <div class="footer-right">
+      <span>Player stats from <a href="https://breakingpoint.gg/stats" target="_blank" rel="noopener">breakingpoint.gg/stats</a> · rosters &amp; accolades via Liquipedia and COD Esports Wiki (CC BY-SA).</span>
+      <span class="footer-links"><a href="https://x.com/ROSTERMANIAcom" target="_blank" rel="noopener">@ROSTERMANIAcom ↗</a><a href="#board">Back to top ↑</a></span>
+    </div>
+  </footer>
+</div>
+
+<!-- Floating stats popover -->
+<div class="stat-pop" id="stat-pop" role="tooltip" hidden></div>
+
+<!-- Player / team drawer -->
+<div class="drawer-scrim" id="drawer-scrim" hidden></div>
+<aside class="drawer" id="drawer" aria-hidden="true" aria-label="Player details">
+  <div class="drawer-top">
+    <span class="eyebrow" id="drawer-kicker">PLAYER CARD</span>
+    <button class="icon-btn small" data-action="close-drawer" aria-label="Close details">
+      <svg viewBox="0 0 24 24"><path d="m5 5 14 14M19 5 5 19"/></svg>
+    </button>
+  </div>
+  <div id="drawer-body"></div>
+</aside>
+
+<!-- Modal root -->
+<div class="modal-scrim" id="modal-scrim" hidden></div>
+<div class="modal" id="modal" role="dialog" aria-modal="true" aria-hidden="true" hidden>
+  <div class="modal-head">
+    <h2 id="modal-title">Modal</h2>
+    <button class="icon-btn small" data-action="close-modal" aria-label="Close modal">
+      <svg viewBox="0 0 24 24"><path d="m5 5 14 14M19 5 5 19"/></svg>
+    </button>
+  </div>
+  <div class="modal-body" id="modal-body"></div>
+  <div class="modal-foot" id="modal-foot"></div>
+</div>
+
+<!-- Toast -->
+<div class="toast-stack" id="toast-stack" aria-live="polite"></div>
+
+<script src="data.js"></script>
+<script src="app.js"></script>
+<script src="assets/html2canvas.min.js" defer></script>
+</body>
+</html>
