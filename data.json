@@ -1152,7 +1152,7 @@
    ],
    "staff": [],
    "official": true,
-   "note": "CDM Points No. 1 seed",
+   "note": "Jezz & Tectonic — 2022 World Champions",
    "mobile": true
   },
   "mob-wolves": {
@@ -1176,7 +1176,7 @@
    ],
    "staff": [],
    "official": true,
-   "note": "China regional champion",
+   "note": "2023 World Champion",
    "mobile": true
   },
   "mob-q9": {
@@ -1242,7 +1242,7 @@
    "bench": [],
    "staff": [],
    "official": true,
-   "note": "Garena Summer Invitational winner",
+   "note": "2024 World Champion",
    "mobile": true
   },
   "mob-sybarites": {
@@ -6689,19 +6689,7 @@
    "photo": null,
    "status": "signed",
    "teamId": "mob-wolves",
-   "stats": null,
-   "accolades": {
-    "rings": [
-     {
-      "date": "2023-12-17",
-      "year": "2023",
-      "event": "CODM World Championship 2023"
-     }
-    ],
-    "majors": [],
-    "ewc": [],
-    "seasonMvps": []
-   }
+   "stats": null
   },
   "mob-only": {
    "id": "mob-only",
@@ -6712,19 +6700,7 @@
    "photo": null,
    "status": "signed",
    "teamId": "mob-wolves",
-   "stats": null,
-   "accolades": {
-    "rings": [
-     {
-      "date": "2023-12-17",
-      "year": "2023",
-      "event": "CODM World Championship 2023"
-     }
-    ],
-    "majors": [],
-    "ewc": [],
-    "seasonMvps": []
-   }
+   "stats": null
   },
   "mob-pegg": {
    "id": "mob-pegg",
@@ -6758,19 +6734,7 @@
    "photo": null,
    "status": "signed",
    "teamId": "mob-wolves",
-   "stats": null,
-   "accolades": {
-    "rings": [
-     {
-      "date": "2023-12-17",
-      "year": "2023",
-      "event": "CODM World Championship 2023"
-     }
-    ],
-    "majors": [],
-    "ewc": [],
-    "seasonMvps": []
-   }
+   "stats": null
   },
   "mob-star": {
    "id": "mob-star",
@@ -6781,19 +6745,7 @@
    "photo": null,
    "status": "signed",
    "teamId": "mob-wolves",
-   "stats": null,
-   "accolades": {
-    "rings": [
-     {
-      "date": "2023-12-17",
-      "year": "2023",
-      "event": "CODM World Championship 2023"
-     }
-    ],
-    "majors": [],
-    "ewc": [],
-    "seasonMvps": []
-   }
+   "stats": null
   },
   "mob-ouling": {
    "id": "mob-ouling",
@@ -6896,19 +6848,7 @@
    "photo": null,
    "status": "signed",
    "teamId": "mob-q9",
-   "stats": null,
-   "accolades": {
-    "rings": [
-     {
-      "date": "2025-11-09",
-      "year": "2025",
-      "event": "CODM World Championship 2025"
-     }
-    ],
-    "majors": [],
-    "ewc": [],
-    "seasonMvps": []
-   }
+   "stats": null
   },
   "mob-clove": {
    "id": "mob-clove",
@@ -10130,6 +10070,56 @@
    {
     "name": "Breaking Point",
     "url": "https://breakingpoint.gg/"
+   }
+  ],
+  "codmChampions": [
+   {
+    "year": 2025,
+    "team": "Qing Jiu Club",
+    "roster": [
+     "Ouling",
+     "MaoQi",
+     "Curly",
+     "Dchen",
+     "Cloud"
+    ],
+    "sub": "Zero"
+   },
+   {
+    "year": 2024,
+    "team": "Elevate",
+    "roster": [
+     "Yop1",
+     "Peejay",
+     "Susanoo",
+     "kLo",
+     "KenDy"
+    ],
+    "sub": null
+   },
+   {
+    "year": 2023,
+    "team": "Wolves",
+    "roster": [
+     "Zai",
+     "Pegg",
+     "XQing",
+     "Nian",
+     "King"
+    ],
+    "sub": null
+   },
+   {
+    "year": 2022,
+    "team": "Tribe Gaming",
+    "roster": [
+     "Jezz",
+     "BoLu",
+     "Tectonic",
+     "Vague",
+     "Marshy"
+    ],
+    "sub": null
    }
   ]
  }

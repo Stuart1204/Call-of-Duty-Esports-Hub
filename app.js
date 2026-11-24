@@ -343,7 +343,23 @@
     return teams;
   }
 
+  function renderChampionsPanel() {
+    const el = $('#champions-panel');
+    if (!el) return;
+    const champs = DATA.meta.codmChampions;
+    if (state.league !== 'mob' || !champs) { el.hidden = true; el.innerHTML = ''; return; }
+    el.hidden = false;
+    el.innerHTML = `<div class="champions-head"><h3>CODM World Champions</h3><span class="eyebrow">S-TIER RINGS</span></div>
+      <div class="champions-grid">${champs.map(c => `<div class="champions-card">
+        <div class="champions-year">${c.year} WORLD CHAMPIONS</div>
+        <div class="champions-team">${esc(c.team)}</div>
+        <div class="champions-roster">${c.roster.map(n => esc(n)).join(' · ')}</div>
+        ${c.sub ? `<div class="champions-sub">Sub: ${esc(c.sub)}</div>` : ''}
+      </div>`).join('')}</div>`;
+  }
+
   function renderBoard() {
+    renderChampionsPanel();
     const teams = filteredTeams();
     const grid = $('#team-grid');
     grid.innerHTML = teams.map(teamCard).join('');

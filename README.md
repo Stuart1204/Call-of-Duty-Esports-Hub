@@ -66,6 +66,16 @@ Everything is local — fonts, logos, player photos and the PNG share-card expor
 - All 16 teams qualified for the **2026 Call of Duty Mobile World Championship**.
 - 5 starters plus bench, no free agents.
 - Team logos, rosters and S-tier trophy cabinets.
+- **World Champions panel** listing the canonical 2022–2025 title rosters.
+- CODM rings are limited to the official champion rosters only — no internet-derived rings for other players.
+
+#### CODM World Champions
+| Year | Team | Roster | Sub |
+|---|---|---|---|
+| 2025 | Qing Jiu Club | Ouling, MaoQi, Curly, Dchen, Cloud | Zero |
+| 2024 | Elevate | Yop1, Peejay, Susanoo, kLo, KenDy | — |
+| 2023 | Wolves | Zai, Pegg, XQing, Nian, King | — |
+| 2022 | Tribe Gaming | Jezz, BoLu, Tectonic, Vague, Marshy | — |
 
 ---
 
@@ -97,7 +107,7 @@ All edits, custom teams, custom players, tier lists, photo overrides and theme a
 - **Challengers Cup 1/Cup 2 results, rosters and logos** — [Liquipedia Call of Duty](https://liquipedia.net/callofduty) (CC BY-SA).
 - **CODM World Championship qualifiers and rosters** — Liquipedia.
 - **Player stats** — [Breaking Point](https://breakingpoint.gg/stats), via its public aggregated player-stats endpoint.
-- **Accolades** — COD Esports Wiki tournament-result and award tables. Only S-tier events are shown: world championships, S-tier majors and season MVPs. Online-only cash cups and A-tier Challengers events are excluded.
+- **Accolades** — COD Esports Wiki tournament-result and award tables. Only S-tier events are shown: world championships, S-tier majors and season MVPs. Online-only cash cups and A-tier Challengers events are excluded. CODM rings use the canonical champion rosters above, not internet-derived team results.
 - **Warzone orgs and player market** — [Warzone Rostermania](https://www.warzonerostermania.com/).
 - **Intel** — curated from Breaking Point reporting and Liquipedia results.
 

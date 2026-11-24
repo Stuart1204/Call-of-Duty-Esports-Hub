@@ -261,6 +261,19 @@ html[data-theme="light"] .ticker-label{border-right-color:var(--line)}
 /* ==========================================================================
    Board
    ========================================================================== */
+.champions-panel{margin-bottom:14px}
+.champions-head{display:flex;align-items:center;gap:8px;margin-bottom:8px}
+.champions-head h3{font-size:19px;letter-spacing:.02em}
+.champions-head .eyebrow{margin-left:auto;color:var(--gold)}
+.champions-grid{display:grid;grid-template-columns:repeat(4,minmax(0,1fr));gap:7px}
+.champions-card{border:1px solid var(--line);border-radius:10px;background:var(--panel);padding:9px 10px;position:relative;overflow:hidden}
+.champions-card::before{content:"";position:absolute;left:0;top:0;bottom:0;width:2px;background:var(--gold)}
+.champions-year{font-family:var(--font-mono);font-size:8px;color:var(--gold);letter-spacing:.08em}
+.champions-team{font-family:var(--font-head);font-size:16px;letter-spacing:.02em;line-height:1.1;margin:2px 0 5px}
+.champions-roster{font-size:9.5px;color:var(--text-dim);line-height:1.45}
+.champions-sub{font-size:8px;color:var(--muted);margin-top:3px}
+@media (max-width:1120px){.champions-grid{grid-template-columns:repeat(2,1fr)}}
+@media (max-width:560px){.champions-grid{grid-template-columns:1fr}}
 .main-panel{min-width:0}
 .view{display:none}
 .view.is-active{display:block;animation:fadeUp .22s ease}
