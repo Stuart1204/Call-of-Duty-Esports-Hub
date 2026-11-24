@@ -2238,7 +2238,6 @@
       "event": "CDL Championship 2023"
      }
     ],
-    "ewc": [],
     "majors": [
      {
       "date": "2024-06-30",
@@ -2256,9 +2255,8 @@
       "event": "CDL 2023 Major 1"
      }
     ],
-    "minors": [],
-    "seasonMvps": [],
-    "eventMvps": []
+    "ewc": [],
+    "seasonMvps": []
    },
    "mw4": true
   },
@@ -2293,11 +2291,9 @@
    },
    "accolades": {
     "rings": [],
-    "ewc": [],
     "majors": [],
-    "minors": [],
-    "seasonMvps": [],
-    "eventMvps": []
+    "ewc": [],
+    "seasonMvps": []
    },
    "mw4": true
   },
@@ -2332,32 +2328,9 @@
    },
    "accolades": {
     "rings": [],
-    "ewc": [],
     "majors": [],
-    "minors": [
-     {
-      "date": "2026-03-19",
-      "year": "2026",
-      "event": "CDC 2026 North America Elite Stage 2"
-     },
-     {
-      "date": "2026-01-22",
-      "year": "2026",
-      "event": "CDC 2026 North America Elite Stage 1"
-     },
-     {
-      "date": "2024-06-23",
-      "year": "2024",
-      "event": "CDC 2024 North America Cup 11"
-     },
-     {
-      "date": "2024-06-20",
-      "year": "2024",
-      "event": "CDC 2024 North America Elite Stage 3 Playoffs"
-     }
-    ],
-    "seasonMvps": [],
-    "eventMvps": []
+    "ewc": [],
+    "seasonMvps": []
    },
    "mw4": true
   },
@@ -2392,11 +2365,9 @@
    },
    "accolades": {
     "rings": [],
-    "ewc": [],
     "majors": [],
-    "minors": [],
-    "seasonMvps": [],
-    "eventMvps": []
+    "ewc": [],
+    "seasonMvps": []
    },
    "mw4": true
   },
@@ -2431,7 +2402,6 @@
    },
    "accolades": {
     "rings": [],
-    "ewc": [],
     "majors": [
      {
       "date": "2021-04-11",
@@ -2439,50 +2409,8 @@
       "event": "CDL 2021 Stage 2 Major"
      }
     ],
-    "minors": [
-     {
-      "date": "2026-06-21",
-      "year": "2026",
-      "event": "CDC 2026 North America Cup 13"
-     },
-     {
-      "date": "2026-06-18",
-      "year": "2026",
-      "event": "CDC 2026 North America Elite Stage 4"
-     },
-     {
-      "date": "2026-05-17",
-      "year": "2026",
-      "event": "CDC 2026 Atlanta Open"
-     },
-     {
-      "date": "2026-05-10",
-      "year": "2026",
-      "event": "CDC 2026 North America Cup 11"
-     },
-     {
-      "date": "2024-06-23",
-      "year": "2024",
-      "event": "CDC 2024 North America Cup 11"
-     },
-     {
-      "date": "2024-06-20",
-      "year": "2024",
-      "event": "CDC 2024 North America Elite Stage 3 Playoffs"
-     },
-     {
-      "date": "2024-03-07",
-      "year": "2024",
-      "event": "CDC 2024 North America Elite Stage 1 Playoffs"
-     },
-     {
-      "date": "2022-01-23",
-      "year": "2022",
-      "event": "CDL 2022 Kickoff Classic"
-     }
-    ],
-    "seasonMvps": [],
-    "eventMvps": []
+    "ewc": [],
+    "seasonMvps": []
    },
    "mw4": true
   },
@@ -2517,7 +2445,6 @@
    },
    "accolades": {
     "rings": [],
-    "ewc": [],
     "majors": [
      {
       "date": "2024-01-28",
@@ -2535,25 +2462,8 @@
       "event": "CDL 2021 Stage 2 Major"
      }
     ],
-    "minors": [
-     {
-      "date": "2022-01-23",
-      "year": "2022",
-      "event": "CDL 2022 Kickoff Classic"
-     },
-     {
-      "date": "2021-03-07",
-      "year": "2021",
-      "event": "CDC 2021 Open 1 North America"
-     },
-     {
-      "date": "2021-02-28",
-      "year": "2021",
-      "event": "CDC 2021 Cup 8 North America"
-     }
-    ],
-    "seasonMvps": [],
-    "eventMvps": []
+    "ewc": [],
+    "seasonMvps": []
    },
    "mw4": true
   },
@@ -2588,11 +2498,9 @@
    },
    "accolades": {
     "rings": [],
-    "ewc": [],
     "majors": [],
-    "minors": [],
-    "seasonMvps": [],
-    "eventMvps": []
+    "ewc": [],
+    "seasonMvps": []
    },
    "mw4": true
   },
@@ -2633,7 +2541,6 @@
       "event": "CDL Championship 2024"
      }
     ],
-    "ewc": [],
     "majors": [
      {
       "date": "2024-05-19",
@@ -2646,82 +2553,8 @@
       "event": "CDL 2022 Major 3"
      }
     ],
-    "minors": [
-     {
-      "date": "2021-08-08",
-      "year": "2021",
-      "event": "CDC 2021 Finals Asia Pacific"
-     },
-     {
-      "date": "2021-07-25",
-      "year": "2021",
-      "event": "CDC 2021 Open 5 Asia Pacific"
-     },
-     {
-      "date": "2021-07-11",
-      "year": "2021",
-      "event": "CDC 2021 Cup 18 Asia Pacific"
-     },
-     {
-      "date": "2021-06-13",
-      "year": "2021",
-      "event": "CDC 2021 Cup 17 Asia Pacific"
-     },
-     {
-      "date": "2021-04-25",
-      "year": "2021",
-      "event": "CDC 2021 Cup 12 Asia Pacific"
-     },
-     {
-      "date": "2021-04-11",
-      "year": "2021",
-      "event": "CDC 2021 Open 2 Asia Pacific"
-     },
-     {
-      "date": "2021-03-21",
-      "year": "2021",
-      "event": "CDC 2021 Cup 9 Asia Pacific"
-     },
-     {
-      "date": "2021-03-07",
-      "year": "2021",
-      "event": "CDC 2021 Open 1 Asia Pacific"
-     },
-     {
-      "date": "2021-02-28",
-      "year": "2021",
-      "event": "CDC 2021 Cup 8 Asia Pacific"
-     },
-     {
-      "date": "2021-02-14",
-      "year": "2021",
-      "event": "CDC 2021 Cup 6 Asia Pacific"
-     },
-     {
-      "date": "2021-01-31",
-      "year": "2021",
-      "event": "CDC 2021 Cup 5 Asia Pacific"
-     },
-     {
-      "date": "2021-01-17",
-      "year": "2021",
-      "event": "CDC 2021 Cup 4 Asia Pacific"
-     },
-     {
-      "date": "2020-12-06",
-      "year": "2020",
-      "event": "CDC 2021 Cup 1 Asia Pacific"
-     }
-    ],
-    "seasonMvps": [],
-    "eventMvps": [
-     {
-      "date": "2022-06-05",
-      "year": "2022",
-      "event": "CDL 2022 Major 3 Toronto",
-      "award": "Event MVP"
-     }
-    ]
+    "ewc": [],
+    "seasonMvps": []
    },
    "mw4": true
   },
@@ -2772,13 +2605,6 @@
       "event": "CWL Championship 2019"
      }
     ],
-    "ewc": [
-     {
-      "date": "2024-08-18",
-      "year": "2024",
-      "event": "EWC 2024"
-     }
-    ],
     "majors": [
      {
       "date": "2026-03-29",
@@ -2831,16 +2657,11 @@
       "event": "CWL/2019 Season/Fort Worth/Open"
      }
     ],
-    "minors": [
+    "ewc": [
      {
-      "date": "2025-11-28",
-      "year": "2025",
-      "event": "Frag Cup V"
-     },
-     {
-      "date": "2025-01-12",
-      "year": "2025",
-      "event": "CDL 2025 Minor 1"
+      "date": "2024-08-18",
+      "year": "2024",
+      "event": "EWC 2024"
      }
     ],
     "seasonMvps": [
@@ -2855,44 +2676,6 @@
       "year": "2021",
       "event": "CDL 2021 Season",
       "award": "Season MVP"
-     }
-    ],
-    "eventMvps": [
-     {
-      "date": "2026-07-19",
-      "year": "2026",
-      "event": "CDL Championship 2026",
-      "award": "Event MVP"
-     },
-     {
-      "date": "2025-02-02",
-      "year": "2025",
-      "event": "CDL 2025 Major 1 Madrid",
-      "award": "Event MVP"
-     },
-     {
-      "date": "2024-03-24",
-      "year": "2024",
-      "event": "CDL 2024 Major 2 Fort Lauderdale",
-      "award": "Event MVP"
-     },
-     {
-      "date": "2023-02-05",
-      "year": "2023",
-      "event": "CDL 2023 Major 2 Boston",
-      "award": "Event MVP"
-     },
-     {
-      "date": "2019-08-18",
-      "year": "2019",
-      "event": "CWL Championship 2019",
-      "award": "Event MVP"
-     },
-     {
-      "date": "2019-07-21",
-      "year": "2019",
-      "event": "CWL 2019 Pro League Playoffs",
-      "award": "Event MVP"
      }
     ]
    },
@@ -2929,22 +2712,9 @@
    },
    "accolades": {
     "rings": [],
-    "ewc": [],
     "majors": [],
-    "minors": [
-     {
-      "date": "2026-01-25",
-      "year": "2026",
-      "event": "CDC 2026 North America Cup 5"
-     },
-     {
-      "date": "2025-12-14",
-      "year": "2025",
-      "event": "CDC 2026 North America Cup 2"
-     }
-    ],
-    "seasonMvps": [],
-    "eventMvps": []
+    "ewc": [],
+    "seasonMvps": []
    },
    "mw4": true
   },
@@ -2979,7 +2749,6 @@
    },
    "accolades": {
     "rings": [],
-    "ewc": [],
     "majors": [
      {
       "date": "2026-05-17",
@@ -3007,58 +2776,7 @@
       "event": "CDL 2023 Major 3"
      }
     ],
-    "minors": [
-     {
-      "date": "2026-11-15",
-      "year": "2026",
-      "event": "Monster Energy Mixed Mayhem"
-     },
-     {
-      "date": "2026-06-07",
-      "year": "2026",
-      "event": "CDL 2026 Minor 4"
-     },
-     {
-      "date": "2026-04-26",
-      "year": "2026",
-      "event": "CDL 2026 Minor 3"
-     },
-     {
-      "date": "2025-03-02",
-      "year": "2025",
-      "event": "CDL 2025 Minor 2"
-     },
-     {
-      "date": "2022-07-10",
-      "year": "2022",
-      "event": "CDC 2022 Boston Open"
-     },
-     {
-      "date": "2022-06-29",
-      "year": "2022",
-      "event": "CDC 2022 North America Elite Stage 4 Playoffs"
-     },
-     {
-      "date": "2022-05-25",
-      "year": "2022",
-      "event": "CDC 2022 North America Elite Stage 3 Playoffs"
-     },
-     {
-      "date": "2022-05-18",
-      "year": "2022",
-      "event": "CDC 2022 North America Elite Stage 3"
-     },
-     {
-      "date": "2022-04-03",
-      "year": "2022",
-      "event": "CDC 2022 Minnesota Open"
-     },
-     {
-      "date": "2021-06-06",
-      "year": "2021",
-      "event": "CDC 2021 Cup 16 North America"
-     }
-    ],
+    "ewc": [],
     "seasonMvps": [
      {
       "date": "2026-07-19",
@@ -3071,32 +2789,6 @@
       "year": "2025",
       "event": "CDL 2025 Season",
       "award": "Season MVP"
-     }
-    ],
-    "eventMvps": [
-     {
-      "date": "2026-05-17",
-      "year": "2026",
-      "event": "CDL 2026 Major 3 Atlanta",
-      "award": "Event MVP"
-     },
-     {
-      "date": "2025-05-25",
-      "year": "2025",
-      "event": "CDL 2025 Major 4 Dallas",
-      "award": "Event MVP"
-     },
-     {
-      "date": "2025-04-27",
-      "year": "2025",
-      "event": "CDL 2025 Major 3 Boca Raton",
-      "award": "Event MVP"
-     },
-     {
-      "date": "2023-03-12",
-      "year": "2023",
-      "event": "CDL 2023 Major 3 Arlington",
-      "award": "Event MVP"
      }
     ]
    },
@@ -3139,7 +2831,6 @@
       "event": "CDL Championship 2023"
      }
     ],
-    "ewc": [],
     "majors": [
      {
       "date": "2026-05-17",
@@ -3172,70 +2863,13 @@
       "event": "CDL 2023 Major 1"
      }
     ],
-    "minors": [
-     {
-      "date": "2026-11-15",
-      "year": "2026",
-      "event": "Monster Energy Mixed Mayhem"
-     },
-     {
-      "date": "2026-06-07",
-      "year": "2026",
-      "event": "CDL 2026 Minor 4"
-     },
-     {
-      "date": "2026-04-26",
-      "year": "2026",
-      "event": "CDL 2026 Minor 3"
-     },
-     {
-      "date": "2025-03-02",
-      "year": "2025",
-      "event": "CDL 2025 Minor 2"
-     },
-     {
-      "date": "2022-05-08",
-      "year": "2022",
-      "event": "CDL 2022 Pro-Am Classic"
-     },
-     {
-      "date": "2021-03-28",
-      "year": "2021",
-      "event": "CDC 2021 Cup 10 North America"
-     }
-    ],
+    "ewc": [],
     "seasonMvps": [
      {
       "date": "2023-06-18",
       "year": "2023",
       "event": "CDL 2023 Season",
       "award": "Season MVP"
-     }
-    ],
-    "eventMvps": [
-     {
-      "date": "2026-06-07",
-      "year": "2026",
-      "event": "CDL 2026 Minor 2",
-      "award": "Grand Finals MVP"
-     },
-     {
-      "date": "2024-06-30",
-      "year": "2024",
-      "event": "CDL 2024 Major 4 Burbank",
-      "award": "Event MVP"
-     },
-     {
-      "date": "2023-05-28",
-      "year": "2023",
-      "event": "CDL 2023 Major 5 Toronto",
-      "award": "Event MVP"
-     },
-     {
-      "date": "2022-05-08",
-      "year": "2022",
-      "event": "CDL 2022 Pro-Am Classic",
-      "award": "Event MVP"
      }
     ]
    },
@@ -3272,172 +2906,9 @@
    },
    "accolades": {
     "rings": [],
-    "ewc": [],
     "majors": [],
-    "minors": [
-     {
-      "date": "2026-06-21",
-      "year": "2026",
-      "event": "CDC 2026 North America Cup 13"
-     },
-     {
-      "date": "2026-06-18",
-      "year": "2026",
-      "event": "CDC 2026 North America Elite Stage 4"
-     },
-     {
-      "date": "2026-05-17",
-      "year": "2026",
-      "event": "CDC 2026 Atlanta Open"
-     },
-     {
-      "date": "2026-05-10",
-      "year": "2026",
-      "event": "CDC 2026 North America Cup 11"
-     },
-     {
-      "date": "2026-03-19",
-      "year": "2026",
-      "event": "CDC 2026 North America Elite Stage 2"
-     },
-     {
-      "date": "2026-02-22",
-      "year": "2026",
-      "event": "CDC 2026 North America Cup 6"
-     },
-     {
-      "date": "2025-12-21",
-      "year": "2025",
-      "event": "CDC 2026 North America Cup 3"
-     },
-     {
-      "date": "2025-12-07",
-      "year": "2025",
-      "event": "CDC 2026 North America Cup"
-     },
-     {
-      "date": "2025-05-04",
-      "year": "2025",
-      "event": "CDC 2025 North America Cup 11"
-     },
-     {
-      "date": "2025-04-20",
-      "year": "2025",
-      "event": "CDC 2025 North America Cup 10"
-     },
-     {
-      "date": "2025-04-17",
-      "year": "2025",
-      "event": "CDC 2025 North America Elite Stage 3 Playoffs"
-     },
-     {
-      "date": "2025-04-06",
-      "year": "2025",
-      "event": "CDC 2025 North America Cup 9"
-     },
-     {
-      "date": "2025-02-16",
-      "year": "2025",
-      "event": "CDC 2025 North America Cup 6"
-     },
-     {
-      "date": "2024-12-15",
-      "year": "2024",
-      "event": "CDC 2025 North America Cup 3"
-     },
-     {
-      "date": "2024-11-24",
-      "year": "2024",
-      "event": "CDC 2025 North America Cup"
-     },
-     {
-      "date": "2024-06-23",
-      "year": "2024",
-      "event": "CDC 2024 North America Cup 11"
-     },
-     {
-      "date": "2024-06-20",
-      "year": "2024",
-      "event": "CDC 2024 North America Elite Stage 3 Playoffs"
-     },
-     {
-      "date": "2024-05-12",
-      "year": "2024",
-      "event": "SGP Syndicate Challengers Open Invitational/North America"
-     },
-     {
-      "date": "2024-04-07",
-      "year": "2024",
-      "event": "CDC 2024 North America Cup 6"
-     },
-     {
-      "date": "2024-02-11",
-      "year": "2024",
-      "event": "CDC 2024 North America Cup 2"
-     },
-     {
-      "date": "2023-05-18",
-      "year": "2023",
-      "event": "CDC 2023 North America Elite Stage 4 Playoffs"
-     },
-     {
-      "date": "2023-04-13",
-      "year": "2023",
-      "event": "CDC 2023 North America Elite Stage 3 Playoffs"
-     },
-     {
-      "date": "2023-03-02",
-      "year": "2023",
-      "event": "CDC 2023 North America Elite Stage 2 Playoffs"
-     },
-     {
-      "date": "2021-12-19",
-      "year": "2021",
-      "event": "CDC 2022 North America Cup 2"
-     },
-     {
-      "date": "2021-11-22",
-      "year": "2021",
-      "event": "KCP Vanguard Launch Invitational"
-     },
-     {
-      "date": "2021-08-08",
-      "year": "2021",
-      "event": "CDC 2021 Finals North America"
-     },
-     {
-      "date": "2021-06-13",
-      "year": "2021",
-      "event": "CDC 2021 Cup 17 North America"
-     },
-     {
-      "date": "2021-05-02",
-      "year": "2021",
-      "event": "CDC 2021 Cup 13 North America"
-     },
-     {
-      "date": "2021-03-28",
-      "year": "2021",
-      "event": "CDC 2021 Cup 10 North America"
-     },
-     {
-      "date": "2021-02-24",
-      "year": "2021",
-      "event": "CDC 2021 Elite North America Stage 1 Playoffs"
-     },
-     {
-      "date": "2021-02-14",
-      "year": "2021",
-      "event": "CDC 2021 Cup 6 North America"
-     },
-     {
-      "date": "2021-01-31",
-      "year": "2021",
-      "event": "CDC 2021 Cup 5 North America"
-     }
-    ],
-    "seasonMvps": [],
-    "eventMvps": []
+    "ewc": [],
+    "seasonMvps": []
    },
    "mw4": true
   },
@@ -3472,7 +2943,6 @@
    },
    "accolades": {
     "rings": [],
-    "ewc": [],
     "majors": [
      {
       "date": "2024-09-01",
@@ -3480,30 +2950,8 @@
       "event": "The Premier Circuit/2024 Season/Major 4"
      }
     ],
-    "minors": [
-     {
-      "date": "2026-05-17",
-      "year": "2026",
-      "event": "CDC 2026 Atlanta Open"
-     },
-     {
-      "date": "2026-05-10",
-      "year": "2026",
-      "event": "CDC 2026 North America Cup 11"
-     },
-     {
-      "date": "2026-03-19",
-      "year": "2026",
-      "event": "CDC 2026 North America Elite Stage 2"
-     },
-     {
-      "date": "2024-04-21",
-      "year": "2024",
-      "event": "CDC 2024 North America Cup 7"
-     }
-    ],
-    "seasonMvps": [],
-    "eventMvps": []
+    "ewc": [],
+    "seasonMvps": []
    },
    "mw4": true
   },
@@ -3538,7 +2986,6 @@
    },
    "accolades": {
     "rings": [],
-    "ewc": [],
     "majors": [
      {
       "date": "2022-04-03",
@@ -3546,132 +2993,8 @@
       "event": "CDL 2022 Major 2"
      }
     ],
-    "minors": [
-     {
-      "date": "2026-02-22",
-      "year": "2026",
-      "event": "CDC 2026 North America Cup 6"
-     },
-     {
-      "date": "2025-12-21",
-      "year": "2025",
-      "event": "CDC 2026 North America Cup 3"
-     },
-     {
-      "date": "2025-12-07",
-      "year": "2025",
-      "event": "CDC 2026 North America Cup"
-     },
-     {
-      "date": "2025-02-16",
-      "year": "2025",
-      "event": "CDC 2025 North America Cup 6"
-     },
-     {
-      "date": "2024-12-15",
-      "year": "2024",
-      "event": "CDC 2025 North America Cup 3"
-     },
-     {
-      "date": "2024-11-24",
-      "year": "2024",
-      "event": "CDC 2025 North America Cup"
-     },
-     {
-      "date": "2024-05-05",
-      "year": "2024",
-      "event": "CDC 2024 North America Cup 8"
-     },
-     {
-      "date": "2024-05-02",
-      "year": "2024",
-      "event": "CDC 2024 North America Elite Stage 2 Playoffs"
-     },
-     {
-      "date": "2024-04-08",
-      "year": "2024",
-      "event": "SGP Syndicate Pro-Am Invitational"
-     },
-     {
-      "date": "2024-02-11",
-      "year": "2024",
-      "event": "CDC 2024 North America Cup 2"
-     },
-     {
-      "date": "2023-05-18",
-      "year": "2023",
-      "event": "CDC 2023 North America Elite Stage 4 Playoffs"
-     },
-     {
-      "date": "2023-04-13",
-      "year": "2023",
-      "event": "CDC 2023 North America Elite Stage 3 Playoffs"
-     },
-     {
-      "date": "2023-01-15",
-      "year": "2023",
-      "event": "CDC 2023 North America Cup 4"
-     },
-     {
-      "date": "2022-05-29",
-      "year": "2022",
-      "event": "CDC 2022 North America Cup 11"
-     },
-     {
-      "date": "2021-12-19",
-      "year": "2021",
-      "event": "CDC 2022 North America Cup 2"
-     },
-     {
-      "date": "2021-11-22",
-      "year": "2021",
-      "event": "KCP Vanguard Launch Invitational"
-     },
-     {
-      "date": "2021-08-08",
-      "year": "2021",
-      "event": "CDC 2021 Finals North America"
-     },
-     {
-      "date": "2021-06-13",
-      "year": "2021",
-      "event": "CDC 2021 Cup 17 North America"
-     },
-     {
-      "date": "2021-05-02",
-      "year": "2021",
-      "event": "CDC 2021 Cup 13 North America"
-     },
-     {
-      "date": "2021-03-28",
-      "year": "2021",
-      "event": "CDC 2021 Cup 10 North America"
-     },
-     {
-      "date": "2021-02-24",
-      "year": "2021",
-      "event": "CDC 2021 Elite North America Stage 1 Playoffs"
-     },
-     {
-      "date": "2021-02-14",
-      "year": "2021",
-      "event": "CDC 2021 Cup 6 North America"
-     },
-     {
-      "date": "2021-01-31",
-      "year": "2021",
-      "event": "CDC 2021 Cup 5 North America"
-     }
-    ],
-    "seasonMvps": [],
-    "eventMvps": [
-     {
-      "date": "2022-04-03",
-      "year": "2022",
-      "event": "CDL 2022 Major 2 Minneapolis",
-      "award": "Event MVP"
-     }
-    ]
+    "ewc": [],
+    "seasonMvps": []
    },
    "mw4": true
   },
@@ -3706,7 +3029,6 @@
    },
    "accolades": {
     "rings": [],
-    "ewc": [],
     "majors": [
      {
       "date": "2018-12-09",
@@ -3729,20 +3051,8 @@
       "event": "CWL/2018 Season/Atlanta Open"
      }
     ],
-    "minors": [
-     {
-      "date": "2025-12-07",
-      "year": "2025",
-      "event": "CDC 2026 North America Cup"
-     },
-     {
-      "date": "2024-04-08",
-      "year": "2024",
-      "event": "SGP Syndicate Pro-Am Invitational"
-     }
-    ],
-    "seasonMvps": [],
-    "eventMvps": []
+    "ewc": [],
+    "seasonMvps": []
    },
    "mw4": true
   },
@@ -3786,13 +3096,6 @@
       "date": "2019-08-18",
       "year": "2019",
       "event": "CWL Championship 2019"
-     }
-    ],
-    "ewc": [
-     {
-      "date": "2024-08-18",
-      "year": "2024",
-      "event": "EWC 2024"
      }
     ],
     "majors": [
@@ -3842,43 +3145,14 @@
       "event": "CWL 2019 Pro League Playoffs"
      }
     ],
-    "minors": [
+    "ewc": [
      {
-      "date": "2026-11-15",
-      "year": "2026",
-      "event": "Monster Energy Mixed Mayhem"
-     },
-     {
-      "date": "2026-06-07",
-      "year": "2026",
-      "event": "CDL 2026 Minor 4"
-     },
-     {
-      "date": "2026-04-26",
-      "year": "2026",
-      "event": "CDL 2026 Minor 3"
-     },
-     {
-      "date": "2025-01-12",
-      "year": "2025",
-      "event": "CDL 2025 Minor 1"
+      "date": "2024-08-18",
+      "year": "2024",
+      "event": "EWC 2024"
      }
     ],
-    "seasonMvps": [],
-    "eventMvps": [
-     {
-      "date": "2025-01-12",
-      "year": "2025",
-      "event": "CDL 2025 Minor 1",
-      "award": "Event MVP"
-     },
-     {
-      "date": "2021-08-22",
-      "year": "2021",
-      "event": "CDL Championship 2021",
-      "award": "Event MVP"
-     }
-    ]
+    "seasonMvps": []
    },
    "mw4": true
   },
@@ -3919,7 +3193,6 @@
       "event": "CDL Championship 2022"
      }
     ],
-    "ewc": [],
     "majors": [
      {
       "date": "2026-02-01",
@@ -3952,22 +3225,8 @@
       "event": "CDL 2022 Major 4"
      }
     ],
-    "minors": [
-     {
-      "date": "2025-03-02",
-      "year": "2025",
-      "event": "CDL 2025 Minor 2"
-     }
-    ],
-    "seasonMvps": [],
-    "eventMvps": [
-     {
-      "date": "2025-03-02",
-      "year": "2025",
-      "event": "CDL 2025 Minor 2",
-      "award": "Event MVP"
-     }
-    ]
+    "ewc": [],
+    "seasonMvps": []
    },
    "mw4": true
   },
@@ -4002,7 +3261,6 @@
    },
    "accolades": {
     "rings": [],
-    "ewc": [],
     "majors": [
      {
       "date": "2026-02-01",
@@ -4020,30 +3278,8 @@
       "event": "CDL 2025 Major 3"
      }
     ],
-    "minors": [
-     {
-      "date": "2026-11-15",
-      "year": "2026",
-      "event": "Monster Energy Mixed Mayhem"
-     },
-     {
-      "date": "2025-03-02",
-      "year": "2025",
-      "event": "CDL 2025 Minor 2"
-     },
-     {
-      "date": "2023-02-05",
-      "year": "2023",
-      "event": "CDC 2023 Boston Open"
-     },
-     {
-      "date": "2023-01-29",
-      "year": "2023",
-      "event": "CDC 2023 North America Cup 5"
-     }
-    ],
-    "seasonMvps": [],
-    "eventMvps": []
+    "ewc": [],
+    "seasonMvps": []
    },
    "mw4": true
   },
@@ -4078,27 +3314,9 @@
    },
    "accolades": {
     "rings": [],
-    "ewc": [],
     "majors": [],
-    "minors": [
-     {
-      "date": "2026-07-19",
-      "year": "2026",
-      "event": "CDC 2026 Finals"
-     },
-     {
-      "date": "2026-06-28",
-      "year": "2026",
-      "event": "CDC 2026 Paris Open"
-     },
-     {
-      "date": "2026-06-18",
-      "year": "2026",
-      "event": "CDC 2026 Europe Elite Stage 4"
-     }
-    ],
-    "seasonMvps": [],
-    "eventMvps": []
+    "ewc": [],
+    "seasonMvps": []
    },
    "mw4": true
   },
@@ -4133,7 +3351,6 @@
    },
    "accolades": {
     "rings": [],
-    "ewc": [],
     "majors": [
      {
       "date": "2026-02-01",
@@ -4141,47 +3358,8 @@
       "event": "CDL 2026 Major 1"
      }
     ],
-    "minors": [
-     {
-      "date": "2025-01-26",
-      "year": "2025",
-      "event": "CDC 2025 North America Cup 5"
-     },
-     {
-      "date": "2025-01-23",
-      "year": "2025",
-      "event": "CDC 2025 North America Elite Stage 1 Playoffs"
-     },
-     {
-      "date": "2023-05-18",
-      "year": "2023",
-      "event": "CDC 2023 North America Elite Stage 4 Playoffs"
-     },
-     {
-      "date": "2023-04-13",
-      "year": "2023",
-      "event": "CDC 2023 North America Elite Stage 3 Playoffs"
-     },
-     {
-      "date": "2023-01-15",
-      "year": "2023",
-      "event": "CDC 2023 North America Cup 4"
-     },
-     {
-      "date": "2022-06-05",
-      "year": "2022",
-      "event": "CDC 2022 Toronto Open"
-     }
-    ],
-    "seasonMvps": [],
-    "eventMvps": [
-     {
-      "date": "2026-02-01",
-      "year": "2026",
-      "event": "CDL 2026 Major 1 Dallas",
-      "award": "Event MVP"
-     }
-    ]
+    "ewc": [],
+    "seasonMvps": []
    },
    "mw4": true
   },
@@ -4216,7 +3394,6 @@
    },
    "accolades": {
     "rings": [],
-    "ewc": [],
     "majors": [
      {
       "date": "2026-05-17",
@@ -4224,30 +3401,8 @@
       "event": "CDL 2026 Major 3"
      }
     ],
-    "minors": [
-     {
-      "date": "2026-06-07",
-      "year": "2026",
-      "event": "CDL 2026 Minor 4"
-     },
-     {
-      "date": "2026-04-26",
-      "year": "2026",
-      "event": "CDL 2026 Minor 3"
-     },
-     {
-      "date": "2025-09-14",
-      "year": "2025",
-      "event": "Elite Warfare Gaming LAN"
-     },
-     {
-      "date": "2024-06-09",
-      "year": "2024",
-      "event": "CDC 2024 North America Cup 10"
-     }
-    ],
-    "seasonMvps": [],
-    "eventMvps": []
+    "ewc": [],
+    "seasonMvps": []
    },
    "mw4": true
   },
@@ -4282,11 +3437,9 @@
    },
    "accolades": {
     "rings": [],
-    "ewc": [],
     "majors": [],
-    "minors": [],
-    "seasonMvps": [],
-    "eventMvps": []
+    "ewc": [],
+    "seasonMvps": []
    },
    "mw4": true
   },
@@ -4321,77 +3474,9 @@
    },
    "accolades": {
     "rings": [],
-    "ewc": [],
     "majors": [],
-    "minors": [
-     {
-      "date": "2021-08-08",
-      "year": "2021",
-      "event": "CDC 2021 Finals Europe"
-     },
-     {
-      "date": "2021-07-18",
-      "year": "2021",
-      "event": "CDC 2021 Cup 19 Europe"
-     },
-     {
-      "date": "2021-06-13",
-      "year": "2021",
-      "event": "CDC 2021 Cup 17 Europe"
-     },
-     {
-      "date": "2021-06-09",
-      "year": "2021",
-      "event": "CDC 2021 Elite Europe Stage 4 Playoffs"
-     },
-     {
-      "date": "2021-06-06",
-      "year": "2021",
-      "event": "CDC 2021 Cup 16 Europe"
-     },
-     {
-      "date": "2021-06-02",
-      "year": "2021",
-      "event": "CDC 2021 Elite Europe Stage 4"
-     },
-     {
-      "date": "2021-04-25",
-      "year": "2021",
-      "event": "CDC 2021 Cup 12 Europe"
-     },
-     {
-      "date": "2021-03-31",
-      "year": "2021",
-      "event": "CDC 2021 Elite Europe Stage 2 Playoffs"
-     },
-     {
-      "date": "2021-03-07",
-      "year": "2021",
-      "event": "CDC 2021 Open 1 Europe"
-     },
-     {
-      "date": "2021-02-28",
-      "year": "2021",
-      "event": "CDC 2021 Cup 8 Europe"
-     },
-     {
-      "date": "2021-02-21",
-      "year": "2021",
-      "event": "CDC 2021 Cup 7 Europe"
-     },
-     {
-      "date": "2021-02-17",
-      "year": "2021",
-      "event": "CDC 2021 Elite Europe Stage 1"
-     },
-     {
-      "date": "2020-12-13",
-      "year": "2020",
-      "event": "CDC 2021 Cup 2 Europe"
-     }
-    ],
-    "seasonMvps": [],
-    "eventMvps": []
+    "ewc": [],
+    "seasonMvps": []
    },
    "mw4": true
   },
@@ -4426,102 +3511,9 @@
    },
    "accolades": {
     "rings": [],
-    "ewc": [],
     "majors": [],
-    "minors": [
-     {
-      "date": "2023-04-16",
-      "year": "2023",
-      "event": "CDC 2023 Europe Cup 10"
-     },
-     {
-      "date": "2023-03-12",
-      "year": "2023",
-      "event": "CDC 2023 Texas Open"
-     },
-     {
-      "date": "2023-01-29",
-      "year": "2023",
-      "event": "CDC 2023 Europe Cup 5"
-     },
-     {
-      "date": "2023-01-08",
-      "year": "2023",
-      "event": "CDC 2023 Europe Cup 3"
-     },
-     {
-      "date": "2022-06-26",
-      "year": "2022",
-      "event": "CDC 2022 Europe Cup 13"
-     },
-     {
-      "date": "2022-05-29",
-      "year": "2022",
-      "event": "CDC 2022 Europe Cup 11"
-     },
-     {
-      "date": "2022-02-16",
-      "year": "2022",
-      "event": "CDC 2022 Europe Elite Stage 1 Playoffs"
-     },
-     {
-      "date": "2022-02-09",
-      "year": "2022",
-      "event": "CDC 2022 Europe Elite Stage 1"
-     },
-     {
-      "date": "2022-02-06",
-      "year": "2022",
-      "event": "CDC 2022 Europe Cup 5"
-     },
-     {
-      "date": "2022-01-09",
-      "year": "2022",
-      "event": "CDC 2022 Europe Cup 3"
-     },
-     {
-      "date": "2021-12-28",
-      "year": "2021",
-      "event": "ESHUB Vanguard League Season 1 ELITE Playoffs"
-     },
-     {
-      "date": "2021-12-19",
-      "year": "2021",
-      "event": "CDC 2022 Europe Cup 2"
-     },
-     {
-      "date": "2021-12-12",
-      "year": "2021",
-      "event": "CDC 2022 Europe Cup"
-     },
-     {
-      "date": "2021-05-02",
-      "year": "2021",
-      "event": "CDC 2021 Cup 13 Europe"
-     },
-     {
-      "date": "2021-03-21",
-      "year": "2021",
-      "event": "CDC 2021 Cup 9 Europe"
-     },
-     {
-      "date": "2021-02-24",
-      "year": "2021",
-      "event": "CDC 2021 Elite Europe Stage 1 Playoffs"
-     },
-     {
-      "date": "2021-02-14",
-      "year": "2021",
-      "event": "CDC 2021 Cup 6 Europe"
-     },
-     {
-      "date": "2021-01-31",
-      "year": "2021",
-      "event": "CDC 2021 Cup 5 Europe"
-     }
-    ],
-    "seasonMvps": [],
-    "eventMvps": []
+    "ewc": [],
+    "seasonMvps": []
    },
    "mw4": true
   },
@@ -4556,11 +3548,9 @@
    },
    "accolades": {
     "rings": [],
-    "ewc": [],
     "majors": [],
-    "minors": [],
-    "seasonMvps": [],
-    "eventMvps": []
+    "ewc": [],
+    "seasonMvps": []
    },
    "mw4": true
   },
@@ -4595,102 +3585,9 @@
    },
    "accolades": {
     "rings": [],
-    "ewc": [],
     "majors": [],
-    "minors": [
-     {
-      "date": "2024-03-07",
-      "year": "2024",
-      "event": "CDC 2024 Europe Elite Stage 1 Playoffs"
-     },
-     {
-      "date": "2024-02-11",
-      "year": "2024",
-      "event": "CDC 2024 Europe Cup 2"
-     },
-     {
-      "date": "2023-01-26",
-      "year": "2023",
-      "event": "CDC 2023 North America Elite Stage 1 Playoffs"
-     },
-     {
-      "date": "2022-06-26",
-      "year": "2022",
-      "event": "CDC 2022 Europe Cup 13"
-     },
-     {
-      "date": "2022-05-29",
-      "year": "2022",
-      "event": "CDC 2022 Europe Cup 11"
-     },
-     {
-      "date": "2022-02-16",
-      "year": "2022",
-      "event": "CDC 2022 Europe Elite Stage 1 Playoffs"
-     },
-     {
-      "date": "2022-02-09",
-      "year": "2022",
-      "event": "CDC 2022 Europe Elite Stage 1"
-     },
-     {
-      "date": "2022-02-06",
-      "year": "2022",
-      "event": "CDC 2022 Europe Cup 5"
-     },
-     {
-      "date": "2022-01-09",
-      "year": "2022",
-      "event": "CDC 2022 Europe Cup 3"
-     },
-     {
-      "date": "2021-12-28",
-      "year": "2021",
-      "event": "ESHUB Vanguard League Season 1 ELITE Playoffs"
-     },
-     {
-      "date": "2021-12-19",
-      "year": "2021",
-      "event": "CDC 2022 Europe Cup 2"
-     },
-     {
-      "date": "2021-12-12",
-      "year": "2021",
-      "event": "CDC 2022 Europe Cup"
-     },
-     {
-      "date": "2021-07-21",
-      "year": "2021",
-      "event": "NGL/2021 Season/Masters Division/Finals"
-     },
-     {
-      "date": "2021-06-17",
-      "year": "2021",
-      "event": "NGL/2021 Season/Masters Division/Stage 2/Playoffs"
-     },
-     {
-      "date": "2021-06-03",
-      "year": "2021",
-      "event": "NGL/2021 Season/Masters Division/Stage 2"
-     },
-     {
-      "date": "2021-02-25",
-      "year": "2021",
-      "event": "NGL/2021 Season/Masters Division/Stage 1"
-     },
-     {
-      "date": "2020-06-25",
-      "year": "2020",
-      "event": "NGL/2020 Season/Masters Division/Stage 2"
-     },
-     {
-      "date": "2020-04-08",
-      "year": "2020",
-      "event": "NGL/2020 Season/Masters Division/Stage 1/Playoffs"
-     }
-    ],
-    "seasonMvps": [],
-    "eventMvps": []
+    "ewc": [],
+    "seasonMvps": []
    },
    "mw4": true
   },
@@ -4725,22 +3622,9 @@
    },
    "accolades": {
     "rings": [],
-    "ewc": [],
     "majors": [],
-    "minors": [
-     {
-      "date": "2026-05-07",
-      "year": "2026",
-      "event": "CDC 2026 North America Elite Stage 3"
-     },
-     {
-      "date": "2026-04-12",
-      "year": "2026",
-      "event": "CDC 2026 North America Cup 9"
-     }
-    ],
-    "seasonMvps": [],
-    "eventMvps": []
+    "ewc": [],
+    "seasonMvps": []
    },
    "mw4": true
   },
@@ -4791,18 +3675,6 @@
       "event": "CDL Championship 2020"
      }
     ],
-    "ewc": [
-     {
-      "date": "2026-08-09",
-      "year": "2026",
-      "event": "EWC 2026"
-     },
-     {
-      "date": "2025-07-27",
-      "year": "2025",
-      "event": "EWC 2025"
-     }
-    ],
     "majors": [
      {
       "date": "2026-06-28",
@@ -4820,11 +3692,16 @@
       "event": "CDL 2022 Major 1"
      }
     ],
-    "minors": [
+    "ewc": [
      {
-      "date": "2025-11-23",
+      "date": "2026-08-09",
+      "year": "2026",
+      "event": "EWC 2026"
+     },
+     {
+      "date": "2025-07-27",
       "year": "2025",
-      "event": "CDL 2026 Launch Invitational"
+      "event": "EWC 2025"
      }
     ],
     "seasonMvps": [
@@ -4833,32 +3710,6 @@
       "year": "2020",
       "event": "CDL 2020 Season",
       "award": "Season MVP"
-     }
-    ],
-    "eventMvps": [
-     {
-      "date": "2026-08-09",
-      "year": "2026",
-      "event": "EWC 2026",
-      "award": "Event MVP"
-     },
-     {
-      "date": "2025-07-27",
-      "year": "2025",
-      "event": "EWC 2025",
-      "award": "Event MVP"
-     },
-     {
-      "date": "2024-07-21",
-      "year": "2024",
-      "event": "CDL Championship 2024",
-      "award": "Event MVP"
-     },
-     {
-      "date": "2024-05-19",
-      "year": "2024",
-      "event": "CDL 2024 Major 3 Toronto",
-      "award": "Event MVP"
      }
     ]
    },
@@ -4906,18 +3757,6 @@
       "event": "CDL Championship 2024"
      }
     ],
-    "ewc": [
-     {
-      "date": "2026-08-09",
-      "year": "2026",
-      "event": "EWC 2026"
-     },
-     {
-      "date": "2025-07-27",
-      "year": "2025",
-      "event": "EWC 2025"
-     }
-    ],
     "majors": [
      {
       "date": "2026-06-28",
@@ -4940,45 +3779,19 @@
       "event": "CWL/2019 Season/Las Vegas Open"
      }
     ],
-    "minors": [
+    "ewc": [
      {
-      "date": "2025-11-28",
-      "year": "2025",
-      "event": "Frag Cup V"
-     },
-     {
-      "date": "2025-11-23",
-      "year": "2025",
-      "event": "CDL 2026 Launch Invitational"
-     }
-    ],
-    "seasonMvps": [],
-    "eventMvps": [
-     {
-      "date": "2026-06-28",
+      "date": "2026-08-09",
       "year": "2026",
-      "event": "CDL 2026 Major 4 Paris",
-      "award": "Event MVP"
+      "event": "EWC 2026"
      },
      {
       "date": "2025-07-27",
       "year": "2025",
-      "event": "EWC 2025",
-      "award": "Grand Finals MVP"
-     },
-     {
-      "date": "2022-03-06",
-      "year": "2022",
-      "event": "CDL 2022 Major 1 Arlington",
-      "award": "Event MVP"
-     },
-     {
-      "date": "2018-12-09",
-      "year": "2018",
-      "event": "CWL Las Vegas Open 2019",
-      "award": "Event MVP"
+      "event": "EWC 2025"
      }
-    ]
+    ],
+    "seasonMvps": []
    },
    "mw4": true
   },
@@ -5024,18 +3837,6 @@
       "event": "CDL Championship 2020"
      }
     ],
-    "ewc": [
-     {
-      "date": "2026-08-09",
-      "year": "2026",
-      "event": "EWC 2026"
-     },
-     {
-      "date": "2025-07-27",
-      "year": "2025",
-      "event": "EWC 2025"
-     }
-    ],
     "majors": [
      {
       "date": "2026-06-28",
@@ -5048,20 +3849,19 @@
       "event": "CDL 2022 Major 2"
      }
     ],
-    "minors": [
+    "ewc": [
      {
-      "date": "2025-11-23",
-      "year": "2025",
-      "event": "CDL 2026 Launch Invitational"
+      "date": "2026-08-09",
+      "year": "2026",
+      "event": "EWC 2026"
      },
      {
-      "date": "2024-11-24",
-      "year": "2024",
-      "event": "CDC 2025 North America Cup"
+      "date": "2025-07-27",
+      "year": "2025",
+      "event": "EWC 2025"
      }
     ],
-    "seasonMvps": [],
-    "eventMvps": []
+    "seasonMvps": []
    },
    "mw4": true
   },
@@ -5102,18 +3902,6 @@
       "event": "CDL Championship 2025"
      }
     ],
-    "ewc": [
-     {
-      "date": "2026-08-09",
-      "year": "2026",
-      "event": "EWC 2026"
-     },
-     {
-      "date": "2025-07-27",
-      "year": "2025",
-      "event": "EWC 2025"
-     }
-    ],
     "majors": [
      {
       "date": "2026-06-28",
@@ -5126,42 +3914,19 @@
       "event": "The Premier Circuit/2024 Season/Major 4"
      }
     ],
-    "minors": [
+    "ewc": [
      {
-      "date": "2025-11-28",
-      "year": "2025",
-      "event": "Frag Cup V"
+      "date": "2026-08-09",
+      "year": "2026",
+      "event": "EWC 2026"
      },
      {
-      "date": "2025-11-23",
+      "date": "2025-07-27",
       "year": "2025",
-      "event": "CDL 2026 Launch Invitational"
-     },
-     {
-      "date": "2025-05-04",
-      "year": "2025",
-      "event": "CDC 2025 North America Cup 11"
-     },
-     {
-      "date": "2025-04-20",
-      "year": "2025",
-      "event": "CDC 2025 North America Cup 10"
-     },
-     {
-      "date": "2025-04-17",
-      "year": "2025",
-      "event": "CDC 2025 North America Elite Stage 3 Playoffs"
+      "event": "EWC 2025"
      }
     ],
-    "seasonMvps": [],
-    "eventMvps": [
-     {
-      "date": "2025-06-29",
-      "year": "2025",
-      "event": "CDL Championship 2025",
-      "award": "Event MVP"
-     }
-    ]
+    "seasonMvps": []
    },
    "mw4": true
   },
@@ -5196,32 +3961,9 @@
    },
    "accolades": {
     "rings": [],
-    "ewc": [],
     "majors": [],
-    "minors": [
-     {
-      "date": "2024-03-17",
-      "year": "2024",
-      "event": "CDC 2024 North America Cup 5"
-     },
-     {
-      "date": "2024-03-10",
-      "year": "2024",
-      "event": "CDC 2024 North America Cup 4"
-     },
-     {
-      "date": "2022-12-18",
-      "year": "2022",
-      "event": "CDC 2023 Raleigh Open"
-     },
-     {
-      "date": "2022-11-13",
-      "year": "2022",
-      "event": "CDC 2023 North America Cup"
-     }
-    ],
-    "seasonMvps": [],
-    "eventMvps": []
+    "ewc": [],
+    "seasonMvps": []
    },
    "mw4": true
   },
@@ -5267,13 +4009,6 @@
       "event": "CDL Championship 2022"
      }
     ],
-    "ewc": [
-     {
-      "date": "2024-08-18",
-      "year": "2024",
-      "event": "EWC 2024"
-     }
-    ],
     "majors": [
      {
       "date": "2026-03-29",
@@ -5306,35 +4041,14 @@
       "event": "CDL 2022 Major 4"
      }
     ],
-    "minors": [
+    "ewc": [
      {
-      "date": "2025-01-12",
-      "year": "2025",
-      "event": "CDL 2025 Minor 1"
-     },
-     {
-      "date": "2021-06-13",
-      "year": "2021",
-      "event": "CDC 2021 Cup 17 North America"
-     },
-     {
-      "date": "2021-03-31",
-      "year": "2021",
-      "event": "CDC 2021 Elite North America Stage 2 Playoffs"
-     },
-     {
-      "date": "2021-03-07",
-      "year": "2021",
-      "event": "CDC 2021 Open 1 North America"
-     },
-     {
-      "date": "2021-02-28",
-      "year": "2021",
-      "event": "CDC 2021 Cup 8 North America"
+      "date": "2024-08-18",
+      "year": "2024",
+      "event": "EWC 2024"
      }
     ],
-    "seasonMvps": [],
-    "eventMvps": []
+    "seasonMvps": []
    },
    "mw4": true
   },
@@ -5375,7 +4089,6 @@
       "event": "CDL Championship 2026"
      }
     ],
-    "ewc": [],
     "majors": [
      {
       "date": "2026-03-29",
@@ -5383,32 +4096,8 @@
       "event": "CDL 2026 Major 2"
      }
     ],
-    "minors": [
-     {
-      "date": "2026-10-29",
-      "year": "2026",
-      "event": "$50K Shuffle Kickoff"
-     },
-     {
-      "date": "2025-11-28",
-      "year": "2025",
-      "event": "Frag Cup V"
-     },
-     {
-      "date": "2024-03-24",
-      "year": "2024",
-      "event": "CDC 2024 Miami Open"
-     }
-    ],
-    "seasonMvps": [],
-    "eventMvps": [
-     {
-      "date": "2026-03-29",
-      "year": "2026",
-      "event": "CDL 2026 Major 2 Birmingham",
-      "award": "Event MVP"
-     }
-    ]
+    "ewc": [],
+    "seasonMvps": []
    },
    "mw4": true
   },
@@ -5449,7 +4138,6 @@
       "event": "CDL Championship 2026"
      }
     ],
-    "ewc": [],
     "majors": [
      {
       "date": "2026-03-29",
@@ -5457,35 +4145,8 @@
       "event": "CDL 2026 Major 2"
      }
     ],
-    "minors": [
-     {
-      "date": "2023-05-28",
-      "year": "2023",
-      "event": "CDC 2023 Toronto Open"
-     },
-     {
-      "date": "2023-03-26",
-      "year": "2023",
-      "event": "CDC 2023 Europe Cup 8"
-     },
-     {
-      "date": "2023-03-05",
-      "year": "2023",
-      "event": "CDC 2023 Europe Cup 7"
-     },
-     {
-      "date": "2023-03-02",
-      "year": "2023",
-      "event": "CDC 2023 Europe Elite Stage 2 Playoffs"
-     },
-     {
-      "date": "2022-06-29",
-      "year": "2022",
-      "event": "CDC 2022 Europe Elite Stage 4 Playoffs"
-     }
-    ],
-    "seasonMvps": [],
-    "eventMvps": []
+    "ewc": [],
+    "seasonMvps": []
    },
    "mw4": true
   },
@@ -5524,13 +4185,6 @@
       "date": "2021-08-22",
       "year": "2021",
       "event": "CDL Championship 2021"
-     }
-    ],
-    "ewc": [
-     {
-      "date": "2024-08-18",
-      "year": "2024",
-      "event": "EWC 2024"
      }
     ],
     "majors": [
@@ -5575,11 +4229,11 @@
       "event": "CWL/2019 Season/Fort Worth/Open"
      }
     ],
-    "minors": [
+    "ewc": [
      {
-      "date": "2025-01-12",
-      "year": "2025",
-      "event": "CDL 2025 Minor 1"
+      "date": "2024-08-18",
+      "year": "2024",
+      "event": "EWC 2024"
      }
     ],
     "seasonMvps": [
@@ -5588,20 +4242,6 @@
       "year": "2022",
       "event": "CDL 2022 Season",
       "award": "Season MVP"
-     }
-    ],
-    "eventMvps": [
-     {
-      "date": "2025-03-23",
-      "year": "2025",
-      "event": "CDL 2025 Major 2 Allen",
-      "award": "Event MVP"
-     },
-     {
-      "date": "2024-08-18",
-      "year": "2024",
-      "event": "EWC 2024",
-      "award": "Event MVP"
      }
     ]
    },
@@ -5644,7 +4284,6 @@
       "event": "CDL Championship 2023"
      }
     ],
-    "ewc": [],
     "majors": [
      {
       "date": "2024-06-30",
@@ -5662,78 +4301,8 @@
       "event": "CDL 2023 Major 1"
      }
     ],
-    "minors": [
-     {
-      "date": "2022-05-08",
-      "year": "2022",
-      "event": "CDL 2022 Pro-Am Classic"
-     },
-     {
-      "date": "2022-03-27",
-      "year": "2022",
-      "event": "CDC 2022 North America Cup 8"
-     },
-     {
-      "date": "2022-03-23",
-      "year": "2022",
-      "event": "CDC 2022 North America Elite Stage 2 Playoffs"
-     },
-     {
-      "date": "2022-03-13",
-      "year": "2022",
-      "event": "CDC 2022 North America Cup 7"
-     },
-     {
-      "date": "2022-02-20",
-      "year": "2022",
-      "event": "CDC 2022 North America Cup 6"
-     },
-     {
-      "date": "2022-02-16",
-      "year": "2022",
-      "event": "CDC 2022 North America Elite Stage 1 Playoffs"
-     },
-     {
-      "date": "2022-02-09",
-      "year": "2022",
-      "event": "CDC 2022 North America Elite Stage 1"
-     },
-     {
-      "date": "2022-02-06",
-      "year": "2022",
-      "event": "CDC 2022 North America Cup 5"
-     },
-     {
-      "date": "2022-01-16",
-      "year": "2022",
-      "event": "CDC 2022 North America Cup 4"
-     },
-     {
-      "date": "2021-07-18",
-      "year": "2021",
-      "event": "CDC 2021 Cup 19 North America"
-     },
-     {
-      "date": "2021-02-21",
-      "year": "2021",
-      "event": "CDC 2021 Cup 7 North America"
-     }
-    ],
-    "seasonMvps": [],
-    "eventMvps": [
-     {
-      "date": "2023-06-18",
-      "year": "2023",
-      "event": "CDL Championship 2023",
-      "award": "Event MVP"
-     },
-     {
-      "date": "2022-12-18",
-      "year": "2022",
-      "event": "CDL 2023 Major 1 Raleigh",
-      "award": "Event MVP"
-     }
-    ]
+    "ewc": [],
+    "seasonMvps": []
    },
    "mw4": true
   },
@@ -5768,27 +4337,9 @@
    },
    "accolades": {
     "rings": [],
-    "ewc": [],
     "majors": [],
-    "minors": [
-     {
-      "date": "2024-01-28",
-      "year": "2024",
-      "event": "CDC 2024 Boston Open"
-     },
-     {
-      "date": "2024-01-21",
-      "year": "2024",
-      "event": "CDC 2024 North America Cup"
-     },
-     {
-      "date": "2024-01-08",
-      "year": "2024",
-      "event": "FC Black Challengers Cup"
-     }
-    ],
-    "seasonMvps": [],
-    "eventMvps": []
+    "ewc": [],
+    "seasonMvps": []
    },
    "mw4": true
   },
@@ -5823,7 +4374,6 @@
    },
    "accolades": {
     "rings": [],
-    "ewc": [],
     "majors": [
      {
       "date": "2026-02-01",
@@ -5841,30 +4391,8 @@
       "event": "CDL 2022 Major 3"
      }
     ],
-    "minors": [
-     {
-      "date": "2021-05-16",
-      "year": "2021",
-      "event": "CDC 2021 Open 3 North America"
-     },
-     {
-      "date": "2021-05-05",
-      "year": "2021",
-      "event": "CDC 2021 Elite North America Stage 3 Playoffs"
-     },
-     {
-      "date": "2021-03-31",
-      "year": "2021",
-      "event": "CDC 2021 Elite North America Stage 2 Playoffs"
-     },
-     {
-      "date": "2021-03-21",
-      "year": "2021",
-      "event": "CDC 2021 Cup 9 North America"
-     }
-    ],
-    "seasonMvps": [],
-    "eventMvps": []
+    "ewc": [],
+    "seasonMvps": []
    },
    "mw4": true
   },
@@ -5899,7 +4427,6 @@
    },
    "accolades": {
     "rings": [],
-    "ewc": [],
     "majors": [
      {
       "date": "2024-01-28",
@@ -5917,27 +4444,8 @@
       "event": "CDL 2021 Stage 2 Major"
      }
     ],
-    "minors": [
-     {
-      "date": "2026-11-08",
-      "year": "2026",
-      "event": "CDL 2027 Launch Invitational"
-     },
-     {
-      "date": "2022-01-23",
-      "year": "2022",
-      "event": "CDL 2022 Kickoff Classic"
-     }
-    ],
-    "seasonMvps": [],
-    "eventMvps": [
-     {
-      "date": "2024-01-28",
-      "year": "2024",
-      "event": "CDL 2024 Major 1 Boston",
-      "award": "Event MVP"
-     }
-    ]
+    "ewc": [],
+    "seasonMvps": []
    },
    "mw4": true
   },
@@ -5972,22 +4480,9 @@
    },
    "accolades": {
     "rings": [],
-    "ewc": [],
     "majors": [],
-    "minors": [
-     {
-      "date": "2026-11-08",
-      "year": "2026",
-      "event": "CDL 2027 Launch Invitational"
-     },
-     {
-      "date": "2026-10-29",
-      "year": "2026",
-      "event": "$50K Shuffle Kickoff"
-     }
-    ],
-    "seasonMvps": [],
-    "eventMvps": []
+    "ewc": [],
+    "seasonMvps": []
    },
    "mw4": true
   },
@@ -6022,37 +4517,9 @@
    },
    "accolades": {
     "rings": [],
-    "ewc": [],
     "majors": [],
-    "minors": [
-     {
-      "date": "2026-11-08",
-      "year": "2026",
-      "event": "CDL 2027 Launch Invitational"
-     },
-     {
-      "date": "2021-06-20",
-      "year": "2021",
-      "event": "CDC 2021 Open 4 Europe"
-     },
-     {
-      "date": "2020-06-25",
-      "year": "2020",
-      "event": "NGL/2020 Season/Masters Division/Stage 2"
-     },
-     {
-      "date": "2020-04-08",
-      "year": "2020",
-      "event": "NGL/2020 Season/Masters Division/Stage 1/Playoffs"
-     },
-     {
-      "date": "2019-04-18",
-      "year": "2019",
-      "event": "CTP/2019 Season/Elite Madrid"
-     }
-    ],
-    "seasonMvps": [],
-    "eventMvps": []
+    "ewc": [],
+    "seasonMvps": []
    },
    "mw4": true
   },
@@ -6087,32 +4554,9 @@
    },
    "accolades": {
     "rings": [],
-    "ewc": [],
     "majors": [],
-    "minors": [
-     {
-      "date": "2026-11-08",
-      "year": "2026",
-      "event": "CDL 2027 Launch Invitational"
-     },
-     {
-      "date": "2026-07-19",
-      "year": "2026",
-      "event": "CDC 2026 Finals"
-     },
-     {
-      "date": "2026-06-28",
-      "year": "2026",
-      "event": "CDC 2026 Paris Open"
-     },
-     {
-      "date": "2026-06-18",
-      "year": "2026",
-      "event": "CDC 2026 Europe Elite Stage 4"
-     }
-    ],
-    "seasonMvps": [],
-    "eventMvps": []
+    "ewc": [],
+    "seasonMvps": []
    },
    "mw4": true
   },
@@ -6148,11 +4592,9 @@
    },
    "accolades": {
     "rings": [],
-    "ewc": [],
     "majors": [],
-    "minors": [],
-    "seasonMvps": [],
-    "eventMvps": []
+    "ewc": [],
+    "seasonMvps": []
    },
    "mw4": true
   },
@@ -6187,7 +4629,6 @@
    },
    "accolades": {
     "rings": [],
-    "ewc": [],
     "majors": [
      {
       "date": "2025-01-05",
@@ -6195,25 +4636,8 @@
       "event": "The Premier Circuit/2025 Season/Major 1"
      }
     ],
-    "minors": [
-     {
-      "date": "2025-06-29",
-      "year": "2025",
-      "event": "CDC 2025 Finals"
-     },
-     {
-      "date": "2025-05-25",
-      "year": "2025",
-      "event": "CDC 2025 DreamHack Open"
-     },
-     {
-      "date": "2025-05-18",
-      "year": "2025",
-      "event": "CDC 2025 North America Cup 12"
-     }
-    ],
-    "seasonMvps": [],
-    "eventMvps": []
+    "ewc": [],
+    "seasonMvps": []
    },
    "mw4": true
   },
@@ -6248,17 +4672,9 @@
    },
    "accolades": {
     "rings": [],
-    "ewc": [],
     "majors": [],
-    "minors": [
-     {
-      "date": "2024-02-25",
-      "year": "2024",
-      "event": "CDC 2024 North America Cup 3"
-     }
-    ],
-    "seasonMvps": [],
-    "eventMvps": []
+    "ewc": [],
+    "seasonMvps": []
    },
    "mw4": true
   },
@@ -6293,7 +4709,6 @@
    },
    "accolades": {
     "rings": [],
-    "ewc": [],
     "majors": [
      {
       "date": "2025-12-07",
@@ -6301,9 +4716,8 @@
       "event": "The Premier Circuit/2026 Season/Major 1"
      }
     ],
-    "minors": [],
-    "seasonMvps": [],
-    "eventMvps": []
+    "ewc": [],
+    "seasonMvps": []
    },
    "mw4": true
   },
@@ -6336,7 +4750,6 @@
       "event": "COD Championship 2015"
      }
     ],
-    "ewc": [],
     "majors": [
      {
       "date": "2019-07-21",
@@ -6364,27 +4777,8 @@
       "event": "MLG Spring Championship 2013"
      }
     ],
-    "minors": [
-     {
-      "date": "2022-06-22",
-      "year": "2022",
-      "event": "CDC 2022 North America Elite Stage 4"
-     },
-     {
-      "date": "2022-05-29",
-      "year": "2022",
-      "event": "CDC 2022 North America Cup 11"
-     }
-    ],
-    "seasonMvps": [],
-    "eventMvps": [
-     {
-      "date": "2015-03-29",
-      "year": "2015",
-      "event": "COD Championship 2015",
-      "award": "Event MVP"
-     }
-    ]
+    "ewc": [],
+    "seasonMvps": []
    },
    "mw4": false
   },
@@ -6407,7 +4801,6 @@
       "event": "COD Championship 2015"
      }
     ],
-    "ewc": [],
     "majors": [
      {
       "date": "2021-08-01",
@@ -6420,15 +4813,8 @@
       "event": "CWL 2018 Pro League"
      }
     ],
-    "minors": [
-     {
-      "date": "2026-10-29",
-      "year": "2026",
-      "event": "$50K Shuffle Kickoff"
-     }
-    ],
-    "seasonMvps": [],
-    "eventMvps": []
+    "ewc": [],
+    "seasonMvps": []
    },
    "mw4": false
   },
@@ -6451,7 +4837,6 @@
       "event": "CDL Championship 2022"
      }
     ],
-    "ewc": [],
     "majors": [
      {
       "date": "2023-04-23",
@@ -6479,34 +4864,8 @@
       "event": "CWL/2017 Season/Anaheim Open"
      }
     ],
-    "minors": [],
-    "seasonMvps": [],
-    "eventMvps": [
-     {
-      "date": "2023-04-23",
-      "year": "2023",
-      "event": "CDL 2023 Major 4 Columbus",
-      "award": "Event MVP"
-     },
-     {
-      "date": "2019-05-05",
-      "year": "2019",
-      "event": "CWL London 2019",
-      "award": "Event MVP"
-     },
-     {
-      "date": "2017-12-17",
-      "year": "2017",
-      "event": "CWL Northern Arena Showdown 2018",
-      "award": "Event MVP"
-     },
-     {
-      "date": "2017-06-18",
-      "year": "2017",
-      "event": "CWL Anaheim Open 2017",
-      "award": "Event MVP"
-     }
-    ]
+    "ewc": [],
+    "seasonMvps": []
    },
    "mw4": false
   },
@@ -6534,7 +4893,6 @@
       "event": "CDL Championship 2022"
      }
     ],
-    "ewc": [],
     "majors": [
      {
       "date": "2024-05-19",
@@ -6567,28 +4925,8 @@
       "event": "CWL/2018 Season/Dallas Open"
      }
     ],
-    "minors": [],
-    "seasonMvps": [],
-    "eventMvps": [
-     {
-      "date": "2022-08-07",
-      "year": "2022",
-      "event": "CDL Championship 2022",
-      "award": "Event MVP"
-     },
-     {
-      "date": "2022-07-17",
-      "year": "2022",
-      "event": "CDL 2022 Major 4 Brooklyn",
-      "award": "Event MVP"
-     },
-     {
-      "date": "2018-07-29",
-      "year": "2018",
-      "event": "CWL Pro League 2018 Stage 2 Playoffs",
-      "award": "Event MVP"
-     }
-    ]
+    "ewc": [],
+    "seasonMvps": []
    },
    "mw4": false
   },
@@ -6611,7 +4949,6 @@
       "event": "CDL Championship 2023"
      }
     ],
-    "ewc": [],
     "majors": [
      {
       "date": "2023-05-28",
@@ -6634,9 +4971,8 @@
       "event": "CWL 2018 Pro League"
      }
     ],
-    "minors": [],
-    "seasonMvps": [],
-    "eventMvps": []
+    "ewc": [],
+    "seasonMvps": []
    },
    "mw4": false
   },
@@ -6659,7 +4995,6 @@
       "event": "CWL Championship 2016"
      }
     ],
-    "ewc": [],
     "majors": [
      {
       "date": "2023-02-05",
@@ -6692,16 +5027,8 @@
       "event": "CWL/2016 Season/North America/Stage 2/Playoffs"
      }
     ],
-    "minors": [],
-    "seasonMvps": [],
-    "eventMvps": [
-     {
-      "date": "2019-06-16",
-      "year": "2019",
-      "event": "CWL Anaheim 2019",
-      "award": "Event MVP"
-     }
-    ]
+    "ewc": [],
+    "seasonMvps": []
    },
    "mw4": false
   },
@@ -6718,7 +5045,6 @@
    "veteran": true,
    "accolades": {
     "rings": [],
-    "ewc": [],
     "majors": [
      {
       "date": "2018-07-29",
@@ -6726,15 +5052,8 @@
       "event": "CWL 2018 Pro League"
      }
     ],
-    "minors": [
-     {
-      "date": "2015-05-10",
-      "year": "2015",
-      "event": "Gfinity Spring Masters 2015"
-     }
-    ],
-    "seasonMvps": [],
-    "eventMvps": []
+    "ewc": [],
+    "seasonMvps": []
    },
    "mw4": false
   },
@@ -6751,7 +5070,6 @@
    "veteran": true,
    "accolades": {
     "rings": [],
-    "ewc": [],
     "majors": [
      {
       "date": "2016-07-16",
@@ -6759,50 +5077,8 @@
       "event": "CWL/2016 Season/Stage 2/Playoffs/All-Star Tournament"
      }
     ],
-    "minors": [
-     {
-      "date": "2022-03-27",
-      "year": "2022",
-      "event": "CDC 2022 North America Cup 8"
-     },
-     {
-      "date": "2022-03-23",
-      "year": "2022",
-      "event": "CDC 2022 North America Elite Stage 2 Playoffs"
-     },
-     {
-      "date": "2022-03-13",
-      "year": "2022",
-      "event": "CDC 2022 North America Cup 7"
-     },
-     {
-      "date": "2022-02-20",
-      "year": "2022",
-      "event": "CDC 2022 North America Cup 6"
-     },
-     {
-      "date": "2022-02-16",
-      "year": "2022",
-      "event": "CDC 2022 North America Elite Stage 1 Playoffs"
-     },
-     {
-      "date": "2022-02-09",
-      "year": "2022",
-      "event": "CDC 2022 North America Elite Stage 1"
-     },
-     {
-      "date": "2022-02-06",
-      "year": "2022",
-      "event": "CDC 2022 North America Cup 5"
-     },
-     {
-      "date": "2022-01-16",
-      "year": "2022",
-      "event": "CDC 2022 North America Cup 4"
-     }
-    ],
-    "seasonMvps": [],
-    "eventMvps": []
+    "ewc": [],
+    "seasonMvps": []
    },
    "mw4": false
   },
@@ -6819,57 +5095,9 @@
    "veteran": true,
    "accolades": {
     "rings": [],
-    "ewc": [],
     "majors": [],
-    "minors": [
-     {
-      "date": "2022-03-27",
-      "year": "2022",
-      "event": "CDC 2022 North America Cup 8"
-     },
-     {
-      "date": "2022-03-23",
-      "year": "2022",
-      "event": "CDC 2022 North America Elite Stage 2 Playoffs"
-     },
-     {
-      "date": "2022-03-13",
-      "year": "2022",
-      "event": "CDC 2022 North America Cup 7"
-     },
-     {
-      "date": "2022-02-20",
-      "year": "2022",
-      "event": "CDC 2022 North America Cup 6"
-     },
-     {
-      "date": "2022-02-16",
-      "year": "2022",
-      "event": "CDC 2022 North America Elite Stage 1 Playoffs"
-     },
-     {
-      "date": "2022-02-09",
-      "year": "2022",
-      "event": "CDC 2022 North America Elite Stage 1"
-     },
-     {
-      "date": "2022-02-06",
-      "year": "2022",
-      "event": "CDC 2022 North America Cup 5"
-     },
-     {
-      "date": "2022-01-16",
-      "year": "2022",
-      "event": "CDC 2022 North America Cup 4"
-     },
-     {
-      "date": "2021-04-11",
-      "year": "2021",
-      "event": "CDC 2021 Open 2 North America"
-     }
-    ],
-    "seasonMvps": [],
-    "eventMvps": []
+    "ewc": [],
+    "seasonMvps": []
    },
    "mw4": false
   },
@@ -6886,27 +5114,9 @@
    "veteran": true,
    "accolades": {
     "rings": [],
-    "ewc": [],
     "majors": [],
-    "minors": [
-     {
-      "date": "2025-06-29",
-      "year": "2025",
-      "event": "CDC 2025 Finals"
-     },
-     {
-      "date": "2025-05-25",
-      "year": "2025",
-      "event": "CDC 2025 DreamHack Open"
-     },
-     {
-      "date": "2025-05-18",
-      "year": "2025",
-      "event": "CDC 2025 North America Cup 12"
-     }
-    ],
-    "seasonMvps": [],
-    "eventMvps": []
+    "ewc": [],
+    "seasonMvps": []
    },
    "mw4": false
   },
@@ -6923,6 +5133,7 @@
    "veteran": true,
    "accolades": {
     "rings": [],
+    "majors": [],
     "ewc": [
      {
       "date": "2026-08-02",
@@ -6930,51 +5141,7 @@
       "event": "EWC 2026"
      }
     ],
-    "majors": [],
-    "minors": [
-     {
-      "date": "2026-04-12",
-      "year": "2026",
-      "event": "CDC 2026 Europe Cup 9"
-     },
-     {
-      "date": "2026-03-22",
-      "year": "2026",
-      "event": "CDC 2026 Europe Cup 8"
-     },
-     {
-      "date": "2026-02-22",
-      "year": "2026",
-      "event": "CDC 2026 Europe Cup 6"
-     },
-     {
-      "date": "2026-01-22",
-      "year": "2026",
-      "event": "CDC 2026 Europe Elite Stage 1"
-     },
-     {
-      "date": "2025-12-07",
-      "year": "2025",
-      "event": "CDC 2026 Europe Cup"
-     },
-     {
-      "date": "2023-05-28",
-      "year": "2023",
-      "event": "CDC 2023 Toronto Open"
-     },
-     {
-      "date": "2023-03-05",
-      "year": "2023",
-      "event": "CDC 2023 Europe Cup 7"
-     },
-     {
-      "date": "2023-03-02",
-      "year": "2023",
-      "event": "CDC 2023 Europe Elite Stage 2 Playoffs"
-     }
-    ],
-    "seasonMvps": [],
-    "eventMvps": []
+    "seasonMvps": []
    },
    "mw4": false
   },
@@ -6991,57 +5158,9 @@
    "veteran": true,
    "accolades": {
     "rings": [],
-    "ewc": [],
     "majors": [],
-    "minors": [
-     {
-      "date": "2026-01-22",
-      "year": "2026",
-      "event": "CDC 2026 North America Elite Stage 1"
-     },
-     {
-      "date": "2024-11-10",
-      "year": "2024",
-      "event": "CDL Scrim Intel Challengers Cup"
-     },
-     {
-      "date": "2024-07-21",
-      "year": "2024",
-      "event": "CDC 2024 Finals"
-     },
-     {
-      "date": "2024-05-26",
-      "year": "2024",
-      "event": "CDC 2024 North America Cup 9"
-     },
-     {
-      "date": "2023-03-02",
-      "year": "2023",
-      "event": "CDC 2023 North America Elite Stage 2 Playoffs"
-     },
-     {
-      "date": "2023-02-05",
-      "year": "2023",
-      "event": "CDC 2023 Boston Open"
-     },
-     {
-      "date": "2023-01-29",
-      "year": "2023",
-      "event": "CDC 2023 North America Cup 5"
-     },
-     {
-      "date": "2021-06-09",
-      "year": "2021",
-      "event": "CDC 2021 Elite North America Stage 4 Playoffs"
-     },
-     {
-      "date": "2021-06-02",
-      "year": "2021",
-      "event": "CDC 2021 Elite North America Stage 4"
-     }
-    ],
-    "seasonMvps": [],
-    "eventMvps": []
+    "ewc": [],
+    "seasonMvps": []
    },
    "mw4": false
   },
@@ -7166,6 +5285,7 @@
       "event": "CWL 2019 Fort Worth Open"
      }
     ],
+    "ewc": [],
     "seasonMvps": []
    }
   },
@@ -7268,6 +5388,7 @@
       "event": "CWL 2017 Atlanta Open"
      }
     ],
+    "ewc": [],
     "seasonMvps": []
    }
   },
@@ -7483,6 +5604,7 @@
       "event": "CWL 2017 Las Vegas Open"
      }
     ],
+    "ewc": [],
     "seasonMvps": []
    }
   },
@@ -7831,6 +5953,7 @@
       "event": "CWL 2016 Australia-New Zealand Stage 1 Playoffs"
      }
     ],
+    "ewc": [],
     "seasonMvps": []
    }
   },
@@ -7871,6 +5994,7 @@
       "event": "CWL 2019 London Open"
      }
     ],
+    "ewc": [],
     "seasonMvps": []
    }
   },
@@ -7947,6 +6071,7 @@
       "event": "CWL 2016 Europe Stage 1 Playoffs"
      }
     ],
+    "ewc": [],
     "seasonMvps": []
    }
   },
@@ -8318,6 +6443,7 @@
       "event": "CWL 2019 Fort Worth Open"
      }
     ],
+    "ewc": [],
     "seasonMvps": []
    }
   },
@@ -8471,6 +6597,7 @@
      }
     ],
     "majors": [],
+    "ewc": [],
     "seasonMvps": []
    }
   },
@@ -8526,6 +6653,7 @@
      }
     ],
     "majors": [],
+    "ewc": [],
     "seasonMvps": []
    }
   },
@@ -8548,6 +6676,7 @@
      }
     ],
     "majors": [],
+    "ewc": [],
     "seasonMvps": []
    }
   },
@@ -8570,6 +6699,7 @@
      }
     ],
     "majors": [],
+    "ewc": [],
     "seasonMvps": []
    }
   },
@@ -8592,6 +6722,7 @@
      }
     ],
     "majors": [],
+    "ewc": [],
     "seasonMvps": []
    }
   },
@@ -8614,6 +6745,7 @@
      }
     ],
     "majors": [],
+    "ewc": [],
     "seasonMvps": []
    }
   },
@@ -8636,6 +6768,7 @@
      }
     ],
     "majors": [],
+    "ewc": [],
     "seasonMvps": []
    }
   },
@@ -8658,6 +6791,7 @@
      }
     ],
     "majors": [],
+    "ewc": [],
     "seasonMvps": []
    }
   },
@@ -8680,6 +6814,7 @@
      }
     ],
     "majors": [],
+    "ewc": [],
     "seasonMvps": []
    }
   },
@@ -8702,6 +6837,7 @@
      }
     ],
     "majors": [],
+    "ewc": [],
     "seasonMvps": []
    }
   },
@@ -8724,6 +6860,7 @@
      }
     ],
     "majors": [],
+    "ewc": [],
     "seasonMvps": []
    }
   },
@@ -8746,6 +6883,7 @@
      }
     ],
     "majors": [],
+    "ewc": [],
     "seasonMvps": []
    }
   },
@@ -8768,6 +6906,7 @@
      }
     ],
     "majors": [],
+    "ewc": [],
     "seasonMvps": []
    }
   },
@@ -8845,6 +6984,7 @@
      }
     ],
     "majors": [],
+    "ewc": [],
     "seasonMvps": []
    }
   },
@@ -8867,6 +7007,7 @@
      }
     ],
     "majors": [],
+    "ewc": [],
     "seasonMvps": []
    }
   },
@@ -8889,6 +7030,7 @@
      }
     ],
     "majors": [],
+    "ewc": [],
     "seasonMvps": []
    }
   },
@@ -8911,6 +7053,7 @@
      }
     ],
     "majors": [],
+    "ewc": [],
     "seasonMvps": []
    }
   },
@@ -8933,6 +7076,7 @@
      }
     ],
     "majors": [],
+    "ewc": [],
     "seasonMvps": []
    }
   },
