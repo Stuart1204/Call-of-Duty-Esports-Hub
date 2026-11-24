@@ -12,9 +12,7 @@ Build rosters, compare players, make tier lists, browse S-tier trophy cabinets a
 
 ## Live site
 
-If GitHub Pages is enabled for this repository:
-
-**https://stuart1204.github.io/Call-of-Duty-Esports-Hub/**
+**Live site:** **https://stuart1204.github.io/Call-of-Duty-Esports-Hub/**
 
 You can also run it locally:
 
@@ -33,7 +31,7 @@ Everything is local — fonts, logos, player photos and the PNG share-card expor
 
 | Tab | Teams | Roster slots | Player market | Notes |
 |---|---|---|---|---|
-| **CDL** | 12 | 48 starters | 0 CDL FAs + 116 CDC market | Official 2027 rosters, staff, real 2027 Breaking Point stats |
+| **CDL** | 12 | 48 starters | 0 CDL FAs + 152 CDC market | Official 2027 rosters, staff, real 2027 Breaking Point stats |
 | **Challengers** | 28 | 112 | 44 | Cup 2 top teams, Cup 1 winners, Monster Invitational teams and notable orgs |
 | **Warzone** | 29 | 3v3 | 152 | The Warzone Rostermania fantasy-draft universe |
 | **CODM** | 16 | 5v5 + bench | — | Every team qualified for the 2026 World Championship |
@@ -44,7 +42,7 @@ Everything is local — fonts, logos, player photos and the PNG share-card expor
 - **Update photo / Reset photo** on every player.
 - **Player market** only includes players who have competed in MW4 2027:
   - 0 CDL free agents have a 2027 sample.
-  - The 116 Challengers players who competed in Cup 1/Cup 2 are available through the **Include Challengers players** toggle.
+  - The 152 Challengers players who competed in Cup 1/Cup 2 are available through the **Include Challengers players** toggle.
   - Veterans such as Attach, Enable, Octane and Clayster remain archived in the data but are removed from the market.
 
 ### Challengers
