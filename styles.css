@@ -576,7 +576,7 @@ html[data-theme="light"] .team-grid{gap:14px}
 }
 .drawer.open{transform:none}
 .drawer-top{display:flex;align-items:center;justify-content:space-between;padding:13px 15px;border-bottom:1px solid var(--line);flex:none}
-.drawer-body{overflow-y:auto;flex:1}
+.drawer-body{overflow-y:auto;flex:1;min-height:0;overscroll-behavior:contain;-webkit-overflow-scrolling:touch;padding-bottom:env(safe-area-inset-bottom,0)}
 .dr-hero{padding:16px 15px 13px;position:relative;overflow:hidden;border-bottom:1px solid var(--line-soft);background:linear-gradient(135deg,color-mix(in srgb,var(--dc) 16%,transparent),transparent 70%)}
 .dr-hero-top{display:flex;align-items:flex-start;gap:12px}
 .dr-photo{width:84px;height:84px;border-radius:13px;overflow:hidden;border:1px solid color-mix(in srgb,var(--dc) 40%,var(--line));background:var(--panel-2);flex:none}
