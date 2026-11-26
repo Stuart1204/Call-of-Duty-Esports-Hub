@@ -271,7 +271,11 @@ html[data-theme="light"] .ticker-label{border-right-color:var(--line)}
 .champions-year{font-family:var(--font-mono);font-size:8px;color:var(--gold);letter-spacing:.08em}
 .champions-team{font-family:var(--font-head);font-size:16px;letter-spacing:.02em;line-height:1.1;margin:2px 0 5px}
 .champions-roster{font-size:9.5px;color:var(--text-dim);line-height:1.45}
+.champ-real{color:var(--muted);font-weight:500;font-size:8.5px}
 .champions-sub{font-size:8px;color:var(--muted);margin-top:3px}
+.real-name{font-size:10.5px;color:var(--muted);letter-spacing:.02em;line-height:1.35}
+.dr-real{font-size:13px;color:var(--text-dim);margin:-1px 0 6px}
+.sp-real{font-size:9px;color:var(--muted);margin-top:1px}
 @media (max-width:1120px){.champions-grid{grid-template-columns:repeat(2,1fr)}}
 @media (max-width:560px){.champions-grid{grid-template-columns:1fr}}
 .main-panel{min-width:0}

@@ -67,6 +67,7 @@ Everything is local — fonts, logos, player photos and the PNG share-card expor
 - 5 starters plus bench, no free agents.
 - Team logos, rosters and S-tier trophy cabinets.
 - **World Champions panel** listing the canonical 2022–2025 title rosters.
+- **Real names** — players show their verified English/pinyin name, and Chinese players also show their Chinese characters (for example 阮弘宇 · Ruan Hongyu). Characters are only shown when confirmed by a public source.
 - CODM rings are limited to the official champion rosters only — no internet-derived rings for other players.
 
 #### CODM World Champions
@@ -93,6 +94,7 @@ Everything is local — fonts, logos, player photos and the PNG share-card expor
 - **Custom teams** — name, tag, region, colour, uploaded crest and 3–6 starter slots.
 - **Custom players** — add anywhere, with photo upload.
 - **Photo updates** — every existing player can have a new photo; images are resized to 500px and stored in the browser.
+- **Real names** — the player drawer, hover card and CODM champions panel show verified real names, using Chinese characters plus English pinyin for Chinese players where confirmed.
 - **Pull buttons** — a header Pull button and four per-esport Pull buttons in **Intel → Data Sync**. They are intentionally paused while source rate limits clear; no pull is fired until the cooldown is done.
 - **Share** — copy roster text, export/import JSON, or download a generated PNG share card.
 - **Light/dark theme**, responsive layout, keyboard support and localStorage persistence.
@@ -106,6 +108,7 @@ All edits, custom teams, custom players, tier lists, photo overrides and theme a
 - **CDL 2027 rosters, staff, history and accolades** — [COD Esports Wiki](https://cod-esports.fandom.com/) (CC BY-SA 3.0).
 - **Challengers Cup 1/Cup 2 results, rosters and logos** — [Liquipedia Call of Duty](https://liquipedia.net/callofduty) (CC BY-SA).
 - **CODM World Championship qualifiers and rosters** — Liquipedia.
+- **CODM real names** — Baidu Baike, Wolves Esports and Q9 official roster announcements, Tencent CODM coverage and media reports, plus Liquipedia romanisations.
 - **Player stats** — [Breaking Point](https://breakingpoint.gg/stats), via its public aggregated player-stats endpoint.
 - **Accolades** — COD Esports Wiki tournament-result and award tables. Only S-tier events are shown: world championships, S-tier majors and season MVPs. Online-only cash cups and A-tier Challengers events are excluded. CODM rings use the canonical champion rosters above, not internet-derived team results.
 - **Warzone orgs and player market** — [Warzone Rostermania](https://www.warzonerostermania.com/).
@@ -116,6 +119,7 @@ All edits, custom teams, custom players, tier lists, photo overrides and theme a
 - **Vik** is listed as **zVik** on Breaking Point; his card shows the alias.
 - CDL major counts track first-place finishes at S-tier events; online-only GameBattles/cash cups are filtered out.
 - The 2027 season is in progress; this is a snapshot from **November 24, 2026**.
+- Real names are shown only when confirmed by a public source. Where Chinese characters could not be verified, the player keeps their English/pinyin name only.
 - Team names, logos and player likenesses belong to their respective owners. This is a non-commercial fan project, not affiliated with Activision, the CDL, Breaking Point or any team.
 
 ---
@@ -123,7 +127,7 @@ All edits, custom teams, custom players, tier lists, photo overrides and theme a
 ## Stack
 
 - Static HTML, CSS and vanilla JavaScript.
-- Data in `data.js` (canonical) and `data.json` (inspectable copy).
+- Data in `data.json` (canonical) and `data.js` (generated browser copy).
 - Self-hosted fonts, local images and `html2canvas` for share cards.
 - No server, database or build step.
 

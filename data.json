@@ -6576,7 +6576,8 @@
    "photo": null,
    "status": "signed",
    "teamId": "mob-onecoin",
-   "stats": null
+   "stats": null,
+   "realName": "Andrei Nico Dy"
   },
   "mob-jezz": {
    "id": "mob-jezz",
@@ -6610,7 +6611,8 @@
    "photo": null,
    "status": "signed",
    "teamId": "mob-onecoin",
-   "stats": null
+   "stats": null,
+   "realName": "Gustav Sausse"
   },
   "mob-seven": {
    "id": "mob-seven",
@@ -6621,7 +6623,8 @@
    "photo": null,
    "status": "signed",
    "teamId": "mob-onecoin",
-   "stats": null
+   "stats": null,
+   "realName": "Jann Remus Cenizal"
   },
   "mob-solo": {
    "id": "mob-solo",
@@ -6632,7 +6635,8 @@
    "photo": "assets/players/mob-solo.jpg",
    "status": "signed",
    "teamId": "mob-onecoin",
-   "stats": null
+   "stats": null,
+   "realName": "Solomon Smith"
   },
   "mob-tectonic": {
    "id": "mob-tectonic",
@@ -6655,7 +6659,8 @@
     "majors": [],
     "ewc": [],
     "seasonMvps": []
-   }
+   },
+   "realName": "Brian Michel"
   },
   "mob-zai": {
    "id": "mob-zai",
@@ -6678,7 +6683,9 @@
     "majors": [],
     "ewc": [],
     "seasonMvps": []
-   }
+   },
+   "realName": "Su Ruihao",
+   "nativeName": "苏睿豪"
   },
   "mob-ice": {
    "id": "mob-ice",
@@ -6689,7 +6696,9 @@
    "photo": null,
    "status": "signed",
    "teamId": "mob-wolves",
-   "stats": null
+   "stats": null,
+   "realName": "Zhang Xuebin",
+   "nativeName": "张学斌"
   },
   "mob-only": {
    "id": "mob-only",
@@ -6700,7 +6709,9 @@
    "photo": null,
    "status": "signed",
    "teamId": "mob-wolves",
-   "stats": null
+   "stats": null,
+   "realName": "Mao Ziyao",
+   "nativeName": "毛梓尧"
   },
   "mob-pegg": {
    "id": "mob-pegg",
@@ -6723,7 +6734,9 @@
     "majors": [],
     "ewc": [],
     "seasonMvps": []
-   }
+   },
+   "realName": "Wang Jiahui",
+   "nativeName": "王家辉"
   },
   "mob-rise": {
    "id": "mob-rise",
@@ -6734,7 +6747,9 @@
    "photo": null,
    "status": "signed",
    "teamId": "mob-wolves",
-   "stats": null
+   "stats": null,
+   "realName": "Tan Haosheng",
+   "nativeName": "谭浩升"
   },
   "mob-star": {
    "id": "mob-star",
@@ -6745,7 +6760,9 @@
    "photo": null,
    "status": "signed",
    "teamId": "mob-wolves",
-   "stats": null
+   "stats": null,
+   "realName": "Jing Yubo",
+   "nativeName": "景裕博"
   },
   "mob-ouling": {
    "id": "mob-ouling",
@@ -6768,7 +6785,9 @@
     "majors": [],
     "ewc": [],
     "seasonMvps": []
-   }
+   },
+   "realName": "Ruan Hongyu",
+   "nativeName": "阮弘宇"
   },
   "mob-zer0": {
    "id": "mob-zer0",
@@ -6791,7 +6810,8 @@
     "majors": [],
     "ewc": [],
     "seasonMvps": []
-   }
+   },
+   "realName": "Xu Hanlin"
   },
   "mob-cloud": {
    "id": "mob-cloud",
@@ -6814,7 +6834,9 @@
     "majors": [],
     "ewc": [],
     "seasonMvps": []
-   }
+   },
+   "realName": "Zhang Zihao",
+   "nativeName": "张子豪"
   },
   "mob-dchen": {
    "id": "mob-dchen",
@@ -6837,7 +6859,9 @@
     "majors": [],
     "ewc": [],
     "seasonMvps": []
-   }
+   },
+   "realName": "Kong Zhuyu",
+   "nativeName": "孔朱宇"
   },
   "mob-sun": {
    "id": "mob-sun",
@@ -6848,7 +6872,9 @@
    "photo": null,
    "status": "signed",
    "teamId": "mob-q9",
-   "stats": null
+   "stats": null,
+   "realName": "Liu Hangchun",
+   "nativeName": "刘航纯"
   },
   "mob-clove": {
    "id": "mob-clove",
@@ -6859,7 +6885,8 @@
    "photo": null,
    "status": "signed",
    "teamId": "mob-alula",
-   "stats": null
+   "stats": null,
+   "realName": "Andhika Syukur Sukmana Putra"
   },
   "mob-lucaszin": {
    "id": "mob-lucaszin",
@@ -6870,7 +6897,8 @@
    "photo": "assets/players/mob-lucaszin.png",
    "status": "signed",
    "teamId": "mob-alula",
-   "stats": null
+   "stats": null,
+   "realName": "Lucas Joia Ferreira"
   },
   "mob-skerd": {
    "id": "mob-skerd",
@@ -6881,7 +6909,8 @@
    "photo": null,
    "status": "signed",
    "teamId": "mob-alula",
-   "stats": null
+   "stats": null,
+   "realName": "Averson Salaya"
   },
   "mob-fdx": {
    "id": "mob-fdx",
@@ -6892,7 +6921,8 @@
    "photo": null,
    "status": "signed",
    "teamId": "mob-alula",
-   "stats": null
+   "stats": null,
+   "realName": "Shan Rouise Mateo"
   },
   "mob-jhai": {
    "id": "mob-jhai",
@@ -6903,7 +6933,8 @@
    "photo": null,
    "status": "signed",
    "teamId": "mob-alula",
-   "stats": null
+   "stats": null,
+   "realName": "Jhairylle Jhay Calano"
   },
   "mob-kl": {
    "id": "mob-kl",
@@ -6926,7 +6957,8 @@
     "majors": [],
     "ewc": [],
     "seasonMvps": []
-   }
+   },
+   "realName": "Juan Karlo Morales"
   },
   "mob-peejay": {
    "id": "mob-peejay",
@@ -6949,7 +6981,8 @@
     "majors": [],
     "ewc": [],
     "seasonMvps": []
-   }
+   },
+   "realName": "Patrick Sagudo"
   },
   "mob-susanoo": {
    "id": "mob-susanoo",
@@ -6972,7 +7005,8 @@
     "majors": [],
     "ewc": [],
     "seasonMvps": []
-   }
+   },
+   "realName": "Justin Cecilio"
   },
   "mob-yop1": {
    "id": "mob-yop1",
@@ -6995,7 +7029,8 @@
     "majors": [],
     "ewc": [],
     "seasonMvps": []
-   }
+   },
+   "realName": "Johnkelly Manalang"
   },
   "mob-k-ndy": {
    "id": "mob-k-ndy",
@@ -7018,7 +7053,8 @@
     "majors": [],
     "ewc": [],
     "seasonMvps": []
-   }
+   },
+   "realName": "John Kenneth Pimentel"
   },
   "mob-carte1s": {
    "id": "mob-carte1s",
@@ -7029,7 +7065,8 @@
    "photo": null,
    "status": "signed",
    "teamId": "mob-sybarites",
-   "stats": null
+   "stats": null,
+   "realName": "Lasel Malee Sin"
   },
   "mob-exile": {
    "id": "mob-exile",
@@ -7051,7 +7088,8 @@
    "photo": null,
    "status": "signed",
    "teamId": "mob-sybarites",
-   "stats": null
+   "stats": null,
+   "realName": "Jamel Kasson Curry"
   },
   "mob-maozyn": {
    "id": "mob-maozyn",
@@ -7062,7 +7100,8 @@
    "photo": null,
    "status": "signed",
    "teamId": "mob-sybarites",
-   "stats": null
+   "stats": null,
+   "realName": "Cesar Mauricio Perez Sampedro"
   },
   "mob-unravel": {
    "id": "mob-unravel",
@@ -7216,7 +7255,8 @@
    "photo": null,
    "status": "signed",
    "teamId": "mob-amigos",
-   "stats": null
+   "stats": null,
+   "realName": "Vitor Leandro da Silva"
   },
   "mob-r4f4": {
    "id": "mob-r4f4",
@@ -7227,7 +7267,8 @@
    "photo": null,
    "status": "signed",
    "teamId": "mob-amigos",
-   "stats": null
+   "stats": null,
+   "realName": "Lazaro Rafael Teodoro"
   },
   "mob-sapuka": {
    "id": "mob-sapuka",
@@ -7249,7 +7290,8 @@
    "photo": null,
    "status": "signed",
    "teamId": "mob-amigos",
-   "stats": null
+   "stats": null,
+   "realName": "Rodrigo Masson"
   },
   "mob-zeus": {
    "id": "mob-zeus",
@@ -7260,7 +7302,8 @@
    "photo": "assets/players/cur-zeus.png",
    "status": "signed",
    "teamId": "mob-amigos",
-   "stats": null
+   "stats": null,
+   "realName": "Ricardo Araujo"
   },
   "mob-spadez": {
    "id": "mob-spadez",
@@ -7293,7 +7336,8 @@
    "photo": null,
    "status": "signed",
    "teamId": "mob-tyrant",
-   "stats": null
+   "stats": null,
+   "realName": "Geneil Rae Dacanay"
   },
   "mob-sawo": {
    "id": "mob-sawo",
@@ -7304,7 +7348,8 @@
    "photo": null,
    "status": "signed",
    "teamId": "mob-tyrant",
-   "stats": null
+   "stats": null,
+   "realName": "Jarod D."
   },
   "mob-saze": {
    "id": "mob-saze",
@@ -7315,7 +7360,8 @@
    "photo": null,
    "status": "signed",
    "teamId": "mob-tyrant",
-   "stats": null
+   "stats": null,
+   "realName": "Adam Kalem"
   },
   "mob-vere": {
    "id": "mob-vere",
@@ -7326,7 +7372,8 @@
    "photo": null,
    "status": "signed",
    "teamId": "mob-tyrant",
-   "stats": null
+   "stats": null,
+   "realName": "Faith Camgöz"
   },
   "mob-wceesarr": {
    "id": "mob-wceesarr",
@@ -7337,7 +7384,8 @@
    "photo": null,
    "status": "signed",
    "teamId": "mob-tyrant",
-   "stats": null
+   "stats": null,
+   "realName": "César T."
   },
   "mob-champi": {
    "id": "mob-champi",
@@ -7403,7 +7451,8 @@
    "photo": "assets/players/mob-fokeey.png",
    "status": "signed",
    "teamId": "mob-galorys",
-   "stats": null
+   "stats": null,
+   "realName": "Allan Geraldo Torres"
   },
   "mob-henricat": {
    "id": "mob-henricat",
@@ -7414,7 +7463,8 @@
    "photo": "assets/players/mob-henricat.png",
    "status": "signed",
    "teamId": "mob-galorys",
-   "stats": null
+   "stats": null,
+   "realName": "Henrique Olveira"
   },
   "mob-mihawk": {
    "id": "mob-mihawk",
@@ -7425,7 +7475,8 @@
    "photo": "assets/players/mob-mihawk.png",
    "status": "signed",
    "teamId": "mob-galorys",
-   "stats": null
+   "stats": null,
+   "realName": "Danilo Kim"
   },
   "mob-pabzera": {
    "id": "mob-pabzera",
@@ -7436,7 +7487,8 @@
    "photo": null,
    "status": "signed",
    "teamId": "mob-galorys",
-   "stats": null
+   "stats": null,
+   "realName": "Pedro Arthur Barbosa"
   },
   "mob-tempo": {
    "id": "mob-tempo",
@@ -7447,7 +7499,8 @@
    "photo": null,
    "status": "signed",
    "teamId": "mob-galorys",
-   "stats": null
+   "stats": null,
+   "realName": "Matias Barrecca"
   },
   "mob-abh1z": {
    "id": "mob-abh1z",
@@ -7458,7 +7511,8 @@
    "photo": null,
    "status": "signed",
    "teamId": "mob-godlike",
-   "stats": null
+   "stats": null,
+   "realName": "Abhishek Nagar"
   },
   "mob-skullg": {
    "id": "mob-skullg",
@@ -7469,7 +7523,8 @@
    "photo": null,
    "status": "signed",
    "teamId": "mob-godlike",
-   "stats": null
+   "stats": null,
+   "realName": "Aniket Majumdar"
   },
   "mob-warden": {
    "id": "mob-warden",
@@ -7480,7 +7535,8 @@
    "photo": null,
    "status": "signed",
    "teamId": "mob-godlike",
-   "stats": null
+   "stats": null,
+   "realName": "Arnav Kalantri"
   },
   "mob-flirt": {
    "id": "mob-flirt",
@@ -7491,7 +7547,8 @@
    "photo": null,
    "status": "signed",
    "teamId": "mob-godlike",
-   "stats": null
+   "stats": null,
+   "realName": "Nishad Gavali"
   },
   "mob-viper": {
    "id": "mob-viper",
@@ -7502,7 +7559,8 @@
    "photo": null,
    "status": "signed",
    "teamId": "mob-godlike",
-   "stats": null
+   "stats": null,
+   "realName": "Manas Dhruv Jani"
   },
   "mob-prevail": {
    "id": "mob-prevail",
@@ -7513,7 +7571,8 @@
    "photo": null,
    "status": "signed",
    "teamId": "mob-godlike",
-   "stats": null
+   "stats": null,
+   "realName": "Gaurang Palav"
   },
   "mob-dolaky": {
    "id": "mob-dolaky",
@@ -7524,7 +7583,8 @@
    "photo": null,
    "status": "signed",
    "teamId": "mob-diavolos",
-   "stats": null
+   "stats": null,
+   "realName": "Ryo Watanabe"
   },
   "mob-baby": {
    "id": "mob-baby",
@@ -7535,7 +7595,8 @@
    "photo": null,
    "status": "signed",
    "teamId": "mob-diavolos",
-   "stats": null
+   "stats": null,
+   "realName": "Shoma Ihara"
   },
   "mob-gaku": {
    "id": "mob-gaku",
@@ -10121,6 +10182,36 @@
     ],
     "sub": null
    }
-  ]
+  ],
+  "codmChampionNames": {
+   "Ouling": {
+    "realName": "Ruan Hongyu",
+    "nativeName": "阮弘宇"
+   },
+   "MaoQi": {
+    "realName": "Ma Zhonghao",
+    "nativeName": "马忠浩"
+   },
+   "Curly": {
+    "realName": "Huang Yue",
+    "nativeName": "黄悦"
+   },
+   "Dchen": {
+    "realName": "Kong Zhuyu",
+    "nativeName": "孔朱宇"
+   },
+   "Cloud": {
+    "realName": "Zhang Zihao",
+    "nativeName": "张子豪"
+   },
+   "Zai": {
+    "realName": "Su Ruihao",
+    "nativeName": "苏睿豪"
+   },
+   "Pegg": {
+    "realName": "Wang Jiahui",
+    "nativeName": "王家辉"
+   }
+  }
  }
 }

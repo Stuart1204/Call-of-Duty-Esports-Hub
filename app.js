@@ -258,6 +258,13 @@
     return `<div class="avatar-fallback">${esc(initials(p.name))}</div>`;
   }
 
+  function realNameLine(p, cls = '') {
+    if (!p) return '';
+    const parts = [p.nativeName, p.realName].filter(Boolean).map(esc);
+    if (!parts.length) return '';
+    return `<div class="real-name${cls ? ` ${cls}` : ''}">${parts.join(' · ')}</div>`;
+  }
+
   function slotHTML(team, pid, kind, idx) {
     const p = pid ? player(pid) : null;
     const attrs = `data-team-id="${esc(team.id)}" data-slot-kind="${kind}" data-slot-index="${idx}"`;
@@ -349,11 +356,19 @@
     const champs = DATA.meta.codmChampions;
     if (state.league !== 'mob' || !champs) { el.hidden = true; el.innerHTML = ''; return; }
     el.hidden = false;
+    const nameMap = DATA.meta.codmChampionNames || {};
+    const byName = {};
+    Object.values(runtime.players).forEach(p => { if (p.league === 'mob') byName[p.name.toLowerCase()] = p; });
+    const rosterName = n => {
+      const m = nameMap[n] || byName[n.toLowerCase()] || null;
+      const parts = m ? [m.nativeName, m.realName].filter(Boolean).map(esc) : [];
+      return parts.length ? `${esc(n)} <small class="champ-real">${parts.join(' · ')}</small>` : esc(n);
+    };
     el.innerHTML = `<div class="champions-head"><h3>CODM World Champions</h3><span class="eyebrow">S-TIER RINGS</span></div>
       <div class="champions-grid">${champs.map(c => `<div class="champions-card">
         <div class="champions-year">${c.year} WORLD CHAMPIONS</div>
         <div class="champions-team">${esc(c.team)}</div>
-        <div class="champions-roster">${c.roster.map(n => esc(n)).join(' · ')}</div>
+        <div class="champions-roster">${c.roster.map(rosterName).join(' · ')}</div>
         ${c.sub ? `<div class="champions-sub">Sub: ${esc(c.sub)}</div>` : ''}
       </div>`).join('')}</div>`;
   }
@@ -461,7 +476,7 @@
     }
     pop.innerHTML = `<div class="sp-top">
       <div class="sp-img">${photoHTML(p)}</div>
-      <div><div class="sp-name">${esc(p.name)}</div><div class="sp-sub">${flag(p.country)} ${esc(p.country || 'Unknown')}${team ? ` · ${esc(team.short || team.name)}` : ' · Free agent'}</div></div>
+      <div><div class="sp-name">${esc(p.name)}</div>${realNameLine(p, 'sp-real')}<div class="sp-sub">${flag(p.country)} ${esc(p.country || 'Unknown')}${team ? ` · ${esc(team.short || team.name)}` : ' · Free agent'}</div></div>
       ${st ? `<div class="sp-rating">${st.rating.toFixed(2)}<small>BP RATING</small></div>` : ''}
     </div>${body}`;
     pop.hidden = false;
@@ -545,6 +560,7 @@
           <div class="dr-photo">${photoHTML(p)}</div>
           <div>
             <div class="dr-name">${esc(p.name)}</div>
+            ${realNameLine(p, 'dr-real')}
             <div class="dr-sub">${flag(p.country)} ${esc(p.country || 'Unknown')} ${p.role ? `· ${esc(p.role)}` : ''}</div>
             <div class="dr-status">
               <span class="chip region">${esc(leagueCfg(p.league).shortName)}</span>
