@@ -94,7 +94,7 @@ Everything is local — fonts, logos, player photos and the PNG share-card expor
 - **Custom teams** — name, tag, region, colour, uploaded crest and 3–6 starter slots.
 - **Custom players** — add anywhere, with photo upload.
 - **Photo updates** — every existing player can have a new photo; images are resized to 500px and stored in the browser.
-- **Real names** — the player drawer, hover card and CODM champions panel show verified real names, using Chinese characters plus English pinyin for Chinese players where confirmed.
+- **Real names** — the player drawer, hover card and champions panel show verified real names across all four circuits. Chinese CODM players show Chinese characters plus English pinyin where confirmed.
 - **Pull buttons** — a header Pull button and four per-esport Pull buttons in **Intel → Data Sync**. They are intentionally paused while source rate limits clear; no pull is fired until the cooldown is done.
 - **Share** — copy roster text, export/import JSON, or download a generated PNG share card.
 - **Light/dark theme**, responsive layout, keyboard support and localStorage persistence.
@@ -108,6 +108,7 @@ All edits, custom teams, custom players, tier lists, photo overrides and theme a
 - **CDL 2027 rosters, staff, history and accolades** — [COD Esports Wiki](https://cod-esports.fandom.com/) (CC BY-SA 3.0).
 - **Challengers Cup 1/Cup 2 results, rosters and logos** — [Liquipedia Call of Duty](https://liquipedia.net/callofduty) (CC BY-SA).
 - **CODM World Championship qualifiers and rosters** — Liquipedia.
+- **CDL, Challengers and Warzone real names** — player infoboxes on the [COD Esports Wiki](https://cod-esports.fandom.com/) (CC BY-SA 3.0), matched by handle and country.
 - **CODM real names** — Baidu Baike, Wolves Esports and Q9 official roster announcements, Tencent CODM coverage and media reports, plus Liquipedia romanisations.
 - **Player stats** — [Breaking Point](https://breakingpoint.gg/stats), via its public aggregated player-stats endpoint.
 - **Accolades** — COD Esports Wiki tournament-result and award tables. Only S-tier events are shown: world championships, S-tier majors and season MVPs. Online-only cash cups and A-tier Challengers events are excluded. CODM rings use the canonical champion rosters above, not internet-derived team results.
